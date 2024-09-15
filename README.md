@@ -1,3 +1,4 @@
+![Banner](https://static.wixstatic.com/media/d476dc_101165da69d14cd7bbe238ad99207d6c~mv2.gif)
 
 # Hi there, I'm Jaehyeon Byun 👋
 
