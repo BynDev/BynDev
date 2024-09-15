@@ -1,5 +1,7 @@
-![Banner](https://static.wixstatic.com/media/d476dc_101165da69d14cd7bbe238ad99207d6c~mv2.gif)
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/45/04/28/4504285f9f12ea09bed8366f05a399d4.gif" alt="Banner" width="300" />
+</p>
 # Hi there, I'm Jaehyeon Byun 👋
 
 Welcome to my GitHub profile! I'm interested in...
