@@ -5,9 +5,13 @@
 </p>
 
 Welcome to my GitHub profile! I'm interested in...
+
 **- Extended Reality / Spatial Computing**
+
 **- Human Computer Interaction**
+
 **- Artificial Intelligence**
+
 **- Computer Graphics / Vision**
 
 [Portfolio Website](https://ballistic-group-796.notion.site/7d0c9b7599564d978035c0bb77073dad?v=6f93571b83e14cf685761756ea176149&pvs=74)
