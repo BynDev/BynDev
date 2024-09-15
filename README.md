@@ -1,10 +1,10 @@
-# Hi there, I'm [Jaehyeon Byun] 👋
+# Hi there, I'm Jaehyeon Byun 👋
 
 Welcome to my GitHub profile! I'm interested in...
-- Extended Reality / Spatial Computing 
+**- Extended Reality / Spatial Computing 
 - Human Computer Interaction
 - Artificial Intelligence
-- Computer Graphics / Vision
+- Computer Graphics / Vision**
 -  
 ## 🔭 I'm currently working on
 - [Project Name/Description] - [Link to the project]
