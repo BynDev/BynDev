@@ -1,7 +1,7 @@
 ## Hi there, I'm Jaehyeon Byun 👋
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/45/04/28/4504285f9f12ea09bed8366f05a399d4.gif" alt="Banner" width="350" />
+  <img src="https://www.wpunj.edu/irt/ctt/images/xr.jpg" alt="Banner" width="500" />
 </p>
 
 Welcome to my GitHub profile! I'm interested in...
