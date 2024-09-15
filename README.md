@@ -32,5 +32,5 @@ Welcome to my GitHub profile! I'm interested in...
 
 ## 🔭 I'm currently working on
 - Seoul Nation University Hostpital [[MediSC Lab](https://snuh.medisc.org/)] 2024.09 ~
-- Kyunghee University [Haptics & Virtual Reality Lab]
-- Xreal
+- Kyunghee University [[Haptics & Virtual Reality Lab](http://haptics.khu.ac.kr/)]
+- XREAL [[Developer](https://www.xreal.info/)]
