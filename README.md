@@ -1,7 +1,7 @@
 ## Hi there, I'm Jaehyeon Byun 👋
 
 <p align="center">
-  <img src="Intro.gif" width="500" />
+  <img src="Intro.gif" width="400" />
 </p>
 
 Welcome to my GitHub profile! I'm interested in...
