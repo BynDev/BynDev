@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm interested in...
 - Artificial Intelligence
 - Computer Graphics / Vision
 
-[Visit my portfolio](https://ballistic-group-796.notion.site/7d0c9b7599564d978035c0bb77073dad?v=6f93571b83e14cf685761756ea176149&pvs=74)
+[Portfolio Website](https://ballistic-group-796.notion.site/7d0c9b7599564d978035c0bb77073dad?v=6f93571b83e14cf685761756ea176149&pvs=74)
+
 ## 🔭 I'm currently working on
 - [Project Name/Description] - [Link to the project]
 - Contributing to [Open Source Project Name] - [Link to the project]
