@@ -1,7 +1,11 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Jaehyeon Byun] 👋
 
-I'm a passionate [Your Profession/Title] with experience in [Your Key Skills or Technologies]. Welcome to my GitHub profile!
-
+Welcome to my GitHub profile! I'm interested in...
+- Extended Reality / Spatial Computing 
+- Human Computer Interaction
+- Artificial Intelligence
+- Computer Graphics / Vision
+-  
 ## 🔭 I'm currently working on
 - [Project Name/Description] - [Link to the project]
 - Contributing to [Open Source Project Name] - [Link to the project]
