@@ -9,14 +9,9 @@ Welcome to my GitHub profile! I'm interested in...
 [Portfolio Website](https://ballistic-group-796.notion.site/7d0c9b7599564d978035c0bb77073dad?v=6f93571b83e14cf685761756ea176149&pvs=74)
 
 ## 🛠️ Technologies & Tools
-- **Languages:** [e.g., Python, JavaScript, Java]
-- **Frameworks:** [e.g., React, Django, Flask]
-- **Tools:** [e.g., Git, Docker, VSCode]
-- **Databases:** [e.g., MySQL, MongoDB]
-
-- **Game Engines:**
-  - ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-  - ![Unreal Engine](https://img.shields.io/badge/Unreal-100000?style=for-the-badge&logo=unreal-engine&logoColor=white)
+- **3D Engines:**
+  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+  ![Unreal Engine](https://img.shields.io/badge/Unreal-100000?style=for-the-badge&logo=unreal-engine&logoColor=white)
   - 
 ## 🔭 I'm currently working on
 - [Project Name/Description] - [Link to the project]
