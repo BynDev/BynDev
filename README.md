@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Intro.gif" width="400" />
+  <img src="Intro.gif" width="450" />
 </p>
 
 ## Hi there, I'm Jaehyeon Byun 👋
