@@ -28,6 +28,8 @@ Welcome to my GitHub profile! [Portfolio Website](https://ballistic-group-796.no
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=for-the-badge&logo=directx&logoColor=white)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)  
+
 ## 🔭 I'm currently working on
 - Seoul Nation University Hostpital [[MediSC Lab](https://snuh.medisc.org/)] 2024.09 ~
 - Kyunghee University [[Haptics & Virtual Reality Lab](http://haptics.khu.ac.kr/)] 2024.01 ~ 2024.06
