@@ -14,7 +14,7 @@ Welcome to my GitHub profile! [Portfolio Website](https://ballistic-group-796.no
 
 ## 🔭 I'm currently working on
 - Seoul National University Hostpital [[Institute of Convergence Medicine with Innovative Technology](https://snuh.medisc.org/)] 2024.09 ~
-- Seoul National University-based XR/Metaverse Joint Club [[XREAL](https://www.xreal.info/)]2024.02 ~
+- Seoul National University-based XR/Metaverse Joint Club [[XREAL](https://www.xreal.info/)] 2024.02 ~
 - Kyunghee University [[Haptics & Virtual Reality Lab](http://haptics.khu.ac.kr/)] 2024.01 ~ 2024.06
 
 ## 🛠️ Technologies & Tools
