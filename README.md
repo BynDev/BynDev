@@ -36,3 +36,12 @@ Welcome to my GitHub profile! [Portfolio Website](https://ballistic-group-796.no
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)  
 
+## Awards
+- 한국관광공사 실감관광콘텐츠 경진대회 **최우수상**
+- 한국정보과학회 학부생 논문 경진대회 **장려상**
+- SW 중심대학 **아너십**
+- 혁신융합대학 제 3회 실감미디어 경진대회 콘텐츠 분야 **우수상**
+- 혁신융합대학 제 3회 실감미디어 경진대회 데이터 분석 분야 **우수상**
+- 부산 벡스코 마이크로디그리 성과발표회 **최우수상**
+
+## Publication
