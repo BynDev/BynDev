@@ -45,5 +45,11 @@ Welcome to my GitHub profile! [Portfolio Website](https://ballistic-group-796.no
 - 부산 벡스코 마이크로디그리 성과발표회 **최우수상**
 
 ## Publication
-- Metaverse Platform Specialized in Discussion and Debate Functions in Online Communication Systems [[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11821441)]
-- Designing Haptics feedback to improve social phobia and implementing VRET environment for data analysis [[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862533)]
+- 2024.06 Metaverse Platform Specialized in Discussion and Debate Functions in Online Communication Systems [[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11821441)]
+- 2024.06 Designing Haptics feedback to improve social phobia and implementing VRET environment for data analysis [[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862533)]
+
+## Activity
+- Digipen Summer Program in Seattle, USA 🇺🇸(2024.7.4 ~ 2024.7.24)
+- K-Global Startup Expo in Hochimin, Vietnam 🇻🇳(2024.5.30 ~ 2024.5.31)
+- PTIT Hackathon in Hanoi, Vietnam 🇻🇳(2024.5.15 ~ 2024.5.17)
+- Wemeet Platform Participatioon (2023.9.5~2023.12.21)
