@@ -14,6 +14,11 @@ Welcome to my GitHub profile! [Portfolio Website](https://ballistic-group-796.no
 
 **- Computer Graphics / Vision**
 
+## 🔭 I'm currently working on
+- Seoul National University Hostpital [[MediSC Lab](https://snuh.medisc.org/)] 2024.09 ~
+- Seoul National University [[XREAL](https://www.xreal.info/)]2024.02 ~
+- Kyunghee University [[Haptics & Virtual Reality Lab](http://haptics.khu.ac.kr/)] 2024.01 ~ 2024.06
+
 ## 🛠️ Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -33,7 +38,3 @@ Welcome to my GitHub profile! [Portfolio Website](https://ballistic-group-796.no
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)  
 
-## 🔭 I'm currently working on
-- Seoul National University Hostpital [[MediSC Lab](https://snuh.medisc.org/)] 2024.09 ~
-- Seoul National University [[XREAL](https://www.xreal.info/)]2024.02 ~
-- Kyunghee University [[Haptics & Virtual Reality Lab](http://haptics.khu.ac.kr/)] 2024.01 ~ 2024.06
