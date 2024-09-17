@@ -34,6 +34,8 @@ Welcome to my GitHub profile! [Portfolio Website](https://ballistic-group-796.no
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)
+
 ## Awards
 - 한국관광공사 실감관광콘텐츠 경진대회 **최우수상**
 - 한국정보과학회 학부생 논문 경진대회 **장려상**
