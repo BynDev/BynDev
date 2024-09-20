@@ -32,7 +32,6 @@ Welcome to my GitHub profile! [Portfolio Website](https://ballistic-group-796.no
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=for-the-badge&logo=directx&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)
 
