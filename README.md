@@ -12,12 +12,12 @@ Welcome to my GitHub profile! [Portfolio Website](https://ballistic-group-796.no
 
 **- Computer Graphics and Vision**
 
-## 🔭 I'm currently working on
+## I'm currently working on
 - Seoul National University Hostpital [[Institute of Convergence Medicine with Innovative Technology](https://snuh.medisc.org/)] 2024.09 ~
 - Seoul National University-based XR/Metaverse Joint Club [[XREAL](https://www.xreal.info/)] 2024.02 ~
 - Kyunghee University [[Haptics & Virtual Reality Lab](http://haptics.khu.ac.kr/)] 2024.01 ~ 2024.06
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,12 +37,12 @@ Welcome to my GitHub profile! [Portfolio Website](https://ballistic-group-796.no
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)
 
 ## Awards
-- 한국관광공사 실감관광콘텐츠 경진대회 **최우수상**
-- 한국정보과학회 학부생 논문 경진대회 **장려상**
-- SW 중심대학 **아너십**
-- 혁신융합대학 제 3회 실감미디어 경진대회 콘텐츠 분야 **우수상**
-- 혁신융합대학 제 3회 실감미디어 경진대회 데이터 분석 분야 **우수상**
-- 부산 벡스코 마이크로디그리 성과발표회 **최우수상**
+- **Grand Prize** at the **Korea Tourism Organization**'s Immersive Tourism Content Competition
+- **Encouragement Award** at **Korean Institute of Information Scientists and Engineers** Undergraduate Paper Competition
+- SW-centered University **Honorship**
+- **Excellent Award** in the Contents Category at the 3rd **COSS** Immersive Media Competition
+- **Excellent Award** in the Data Analysis Category at the 3rd **COSS** Immersive Media Competition
+- **Grand Prize** at the Busan BEXCO **Micro-Degree Achievement Presentation**
 
 ## Publication
 - 2024.06 Metaverse Platform Specialized in Discussion and Debate Functions in Online Communication Systems [[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11821441)]
