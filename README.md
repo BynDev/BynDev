@@ -34,8 +34,6 @@ Welcome to my GitHub profile! [Portfolio Website](https://ballistic-group-796.no
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)
-
 ## Awards
 - **Grand Prize** at the **Korea Tourism Organization**'s Immersive Tourism Content Competition
 - **Encouragement Award** at **Korean Institute of Information Scientists and Engineers** Undergraduate Paper Competition
