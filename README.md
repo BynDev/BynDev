@@ -10,6 +10,8 @@ Welcome to my GitHub profile! [Portfolio Website](https://ballistic-group-796.no
 
 **- Human-Computer Interaction**
 
+**- AI Based Extended Reality**
+
 ## I'm currently working on
 - Seoul National University Hostpital [[Institute of Convergence Medicine with Innovative Technology](https://snuh.medisc.org/)] 2024.09 ~
 - Seoul National University-based XR/Metaverse Joint Club [[XREAL](https://www.xreal.info/)] 2024.02 ~
