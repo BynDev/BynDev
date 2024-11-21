@@ -6,11 +6,9 @@
 
 Welcome to my GitHub profile! [Portfolio Website](https://ballistic-group-796.notion.site/7d0c9b7599564d978035c0bb77073dad?v=6f93571b83e14cf685761756ea176149&pvs=74) / [Blog Website]( https://metahyeon.tistory.com/)
 
-**- Spatial Computing**
+**- AI Based Extended Reality**
 
 **- Human-Computer Interaction**
-
-**- AI Based Extended Reality**
 
 ## I'm currently working on
 - Seoul National University Hostpital [[Institute of Convergence Medicine with Innovative Technology](https://snuh.medisc.org/)] 2024.09 ~
