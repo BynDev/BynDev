@@ -30,21 +30,3 @@ Welcome to my GitHub profile! [WebCV](https://jaehyunbyun.netlify.app/) / [Blog 
 ![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=for-the-badge&logo=directx&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=Figma&logoColor=white)
-
-## Awards
-- **Grand Prize** at the **Korea Tourism Organization**'s Immersive Tourism Content Competition
-- **Encouragement Award** at **Korean Institute of Information Scientists and Engineers** Undergraduate Paper Competition
-- SW-centered University **Honorship**
-- **Excellent Award** in the Contents Category at the 3rd **COSS** Immersive Media Competition
-- **Excellent Award** in the Data Analysis Category at the 3rd **COSS** Immersive Media Competition
-- **Grand Prize** at the Busan BEXCO **Micro-Degree Achievement Presentation**
-
-## Publication
-- 2024.06 Metaverse Platform Specialized in Discussion and Debate Functions in Online Communication Systems [[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11821441)]
-- 2024.06 Designing Haptics feedback to improve social phobia and implementing VRET environment for data analysis [[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862533)]
-
-## Activity
-- Digipen Summer Program in Seattle, USA 🇺🇸(2024.7.4 ~ 2024.7.24)
-- K-Global Startup Expo in Hochimin, Vietnam 🇻🇳(2024.5.30 ~ 2024.5.31)
-- PTIT Hackathon in Hanoi, Vietnam 🇻🇳(2024.5.15 ~ 2024.5.17)
-- Wemeet Platform Participatioon (2023.9.5~2023.12.21)
