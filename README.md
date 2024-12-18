@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Jaehyeon Byun 👋
 
-Welcome to my GitHub profile! [WebCV](https://jaehyunbyun.netlify.app/) / [Blog Website]( https://metahyeon.tistory.com/) / Development Portfolio(https://ballistic-group-796.notion.site/7d0c9b7599564d978035c0bb77073dad?v=6f93571b83e14cf685761756ea176149&pvs=74) 
+Welcome to my GitHub profile! [WebCV](https://jaehyunbyun.netlify.app/) / [Blog Website]( https://metahyeon.tistory.com/) / [Development Portfolio](https://ballistic-group-796.notion.site/7d0c9b7599564d978035c0bb77073dad?v=6f93571b83e14cf685761756ea176149&pvs=74) 
 
 **- AI Based Mixed Reality**
 
