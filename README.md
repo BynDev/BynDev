@@ -14,6 +14,8 @@ Welcome to my GitHub profile! [WebCV](https://jaehyunbyun.netlify.app/) / [Blog 
 - Seoul National University Hostpital [[Institute of Convergence Medicine with Innovative Technology](https://snuh.medisc.org/)] 2024.09 ~
 - Kyunghee University [[Haptics & Virtual Reality Lab](http://haptics.khu.ac.kr/)] 2024.01 ~ 2024.06
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehyeonbyun&show_icons=true&theme=radical)
+
 ## Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
