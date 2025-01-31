@@ -6,9 +6,8 @@
 
 Welcome to my GitHub profile! [WebCV](https://jaehyunbyun.netlify.app/) / [Blog Website]( https://metahyeon.tistory.com/)
 
-**- AI Based Mixed Reality**
-
 **- Human-Computer Interaction**
+**- AI Based Extended Reality**
 
 ## I'm currently working on
 - Seoul National University Hostpital [[Institute of Convergence Medicine with Innovative Technology](https://snuh.medisc.org/)] 2024.09 ~
