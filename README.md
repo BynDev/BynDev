@@ -8,11 +8,11 @@ Welcome to my GitHub profile! [WebCV](https://jaehyunbyun.netlify.app/) / [Blog 
 
 **- Human-Computer Interaction**
 
-**- Virtual Reality**
+**- AI & Computer Vision**
 
 **- Computer Graphics**
 
-**- AI & Computer Vision**
+**- Virtual Reality**
 
 ## I'm currently working on
 - Seoul National University Hostpital [[Institute of Convergence Medicine with Innovative Technology](https://snuh.medisc.org/)] 2024.09 ~
