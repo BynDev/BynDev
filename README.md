@@ -8,9 +8,9 @@ Welcome to my GitHub profile! [WebCV](https://jaehyunbyun.netlify.app/) / [Blog 
 
 **- Human-Computer Interaction**
 
-**- AI & Computer Vision**
-
 **- Computer Graphics**
+
+**- AI & Computer Vision**
 
 **- Virtual Reality**
 
