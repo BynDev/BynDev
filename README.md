@@ -2,12 +2,17 @@
   <img src="Intro.gif" width="450" />
 </p>
 
-## Hi there, I'm Jaehyeon Byun 👋
+## I'm Byn, and I make Human-Centered Design and Engineering.   👋
 
 Welcome to my GitHub profile! [WebCV](https://jaehyunbyun.netlify.app/) / [Blog Website]( https://metahyeon.tistory.com/)
 
 **- Human-Computer Interaction**
-**- AI Based Extended Reality**
+
+**- Virtual Reality**
+
+**- Computer Graphics**
+
+**- AI & Computer Vision**
 
 ## I'm currently working on
 - Seoul National University Hostpital [[Institute of Convergence Medicine with Innovative Technology](https://snuh.medisc.org/)] 2024.09 ~
