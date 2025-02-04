@@ -94,4 +94,4 @@
 ---
 
 ## 📫 **Connect With Me**  
-🔗 [LinkedIn]([#](https://www.linkedin.com/in/jaehyun-byun-322bb92aa/)) | ✉️ Email: bjh1750@khu.ac.kr | 🌐 [Personal Website]([#](https://jaehyunbyun.netlify.app/))  
+✉️ Email: bjh1750@khu.ac.kr
