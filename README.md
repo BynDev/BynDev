@@ -51,23 +51,23 @@
 ---
 
 ## 🛠 **Projects**  
-### 🎯 **[I-there]** 
+### 🎯 **I-there** 
 - Developed an AI-driven system using **MRTK3, SnapDragonSpaces, Pytorch, MySQL, Baraccuda**  
 - Achieved **National IT Industry Promotion Agency's President Award** through **XR Device Make A Thon**  
 - Integrated into a real-world application for **Medical, Industrial**  
 - [🔗 GitHub Repo](#)  
 
-### 🎯 **[TramScape To Korea]**  
+### 🎯 **TramScape To Korea**  
 - Built a high-performance pipeline for **[Specific Task]** using **[Technology]**  
 - Implemented **[Optimization/Novel Methodology]** to enhance **[Metric: Latency, Efficiency, etc.]**  
 - [🔗 GitHub Repo](#) | [🎥 Demo](#)
 
-### 🎯 **[Xterilize]**  
+### 🎯 **Xterilize**  
 - Built a high-performance pipeline for **[Specific Task]** using **[Technology]**  
 - Implemented **[Optimization/Novel Methodology]** to enhance **[Metric: Latency, Efficiency, etc.]**  
 - [🔗 GitHub Repo](#) | [🎥 Demo](#)
 
-### 🎯 **[Calmpilot]**  
+### 🎯 **Calmpilot**  
 - Built a high-performance pipeline for **[Specific Task]** using **[Technology]**  
 - Implemented **[Optimization/Novel Methodology]** to enhance **[Metric: Latency, Efficiency, etc.]**  
 - [🔗 GitHub Repo](#) | [📄 Paper](#)
