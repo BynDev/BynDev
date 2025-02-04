@@ -65,19 +65,19 @@
 
 ## 🔗 **Side Projects & Repositories**  
 
-🔹 Panoramic Stitching – Implementation of a panoramic image generation algorithm in computer vision | 🔗 GitHub Repo
+🔹 **Panoramic Stitching** – Implementation of a panoramic image generation algorithm in computer vision | 🔗 GitHub Repo
 
-🔹 Microgravity – Impulse-based simulation and penetration contact dynamics for microgravity interaction | 🔗 GitHub Repo
+🔹 **Microgravity** – Impulse-based simulation and penetration contact dynamics for microgravity interaction | 🔗 GitHub Repo
 
-🔹 IMU LSTM Hand Tracking – LSTM-based hand tracking prediction using IMU dataset | 🔗 GitHub Repo
+🔹 **IMU LSTM Hand Tracking** – LSTM-based hand tracking prediction using IMU dataset | 🔗 GitHub Repo
 
-🔹 Unreal Kinematics Optimization – Kinematics implementation and optimization in Unreal Engine | 🔗 GitHub Repo
+🔹 **Unreal Kinematics Optimization** – Kinematics implementation and optimization in Unreal Engine | 🔗 GitHub Repo
 
-🔹 Body Tracking Motion Parallax – Motion parallax implementation in Unity using Azure Kinect | 🔗 GitHub Repo
+🔹 **Body Tracking Motion Parallax** – Motion parallax implementation in Unity using Azure Kinect | 🔗 GitHub Repo
 
-🔹 DirectX11 Graphics Engine – Custom graphics engine implementation using WinAPI and DirectX11 | 🔗 GitHub Repo
+🔹 **DirectX11 Graphics Engine** – Custom graphics engine implementation using WinAPI and DirectX11 | 🔗 GitHub Repo
 
-🔹 CNN Image Classification – Object-oriented CNN-based image classification algorithm | 🔗 GitHub Repo  
+🔹 **CNN Image Classification** – Object-oriented CNN-based image classification algorithm | 🔗 GitHub Repo  
 
 ---
 
