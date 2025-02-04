@@ -30,6 +30,27 @@
 
 ---
 
+## 📌 **Skills & Tech Stack**  
+💻 **Programming:** C++, C#, Python, Kotlin, Lua  
+
+🎮 **Game Engines & Simulation:** Unity, Unreal Engine 
+
+🕶️ **Interaction**: Azure Kinect, Leap Motion, Meta Quest, Haptic Suits, Holelense, Tobii eye tracker, Arduino
+
+🧠 **AI/ML:** PyTorch, TensorFlow, OpenCV, SciPy, ONNX  
+
+🖥️ **Rendering:** DirectX, OpenGL  
+
+🚀 **AR/VR Development:** XRI, OVR, MRTK3, SnapDragonSpaces, ARFoundation
+
+🎨 **UX/UI & Design:** Figma, Blender, Unity UI Toolkit
+
+☁️ **Cloud & Deployment:** AWS, Azure  
+
+📊 **Data Processing & Visualization:** NumPy, Pandas, Matplotlib
+
+---
+
 ## 🛠 **Projects**  
 ### 🎯 **[I-there]** 
 - Developed an AI-driven system using **MRTK3, SnapDragonSpaces, Pytorch, MySQL, Baraccuda**  
@@ -54,26 +75,6 @@
 
 ---
 
-## 📌 **Skills & Tech Stack**  
-💻 **Programming:** C++, C#, Python, Kotlin, Lua  
-
-🎮 **Game Engines & Simulation:** Unity, Unreal Engine 
-
-🕶️ **Interaction**: Azure Kinect, Leap Motion, Meta Quest, Haptic Suits, Holelense, Tobii eye tracker, Arduino
-
-🧠 **AI/ML:** PyTorch, TensorFlow, OpenCV, SciPy, ONNX  
-
-🖥️ **Rendering:** DirectX, OpenGL  
-
-🚀 **AR/VR Development:** XRI, OVR, MRTK3, SnapDragonSpaces, ARFoundation
-
-🎨 **UX/UI & Design:** Figma, Blender, Unity UI Toolkit
-
-☁️ **Cloud & Deployment:** AWS, Azure  
-
-📊 **Data Processing & Visualization:** NumPy, Pandas, Matplotlib
-
----
 
 ## 🔗 **Side Projects & Repositories**  
 
