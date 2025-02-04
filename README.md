@@ -67,7 +67,7 @@
 
 🔹 Panoramic Stitching – Implementation of a panoramic image generation algorithm in computer vision | 🔗 GitHub Repo
 
-🔹 Microgravity – Impulse-based simulation and penetration contact dynamics for microgravity interaction using Leap Motion 2 | 🔗 GitHub Repo
+🔹 Microgravity – Impulse-based simulation and penetration contact dynamics for microgravity interaction | 🔗 GitHub Repo
 
 🔹 IMU LSTM Hand Tracking – LSTM-based hand tracking prediction using IMU dataset | 🔗 GitHub Repo
 
