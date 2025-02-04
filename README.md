@@ -9,19 +9,6 @@
 
 🌍 **[Portfolio Website](https://jaehyunbyun.netlify.app/)**  
 
-
-## 🔬 **Research & Publications**  
-
-#### 📖 Metaverse Platform Specialized in Discussion and Debate Functions in Online Communication Systems
-📍 *2024* | **Authors: Minsu Kim, Jaehyun Byun, Tak Woo**  
-🔹 연구의 핵심 내용 요약 (1~2줄)  
-
-#### 📖 Designing Haptics feedback to improve social phobia and implementing VRET environment for data analysis
-📍 *2024* | **Authors: Jaehyun Byun, Jihye Ryu, Seokhee Jeon**  
-🔹 연구의 핵심 내용 요약 (1~2줄)  
-
----
-
 ## 💡 **Research Interests**  
 - Human-Computer Interaction  
 - Artificial Intelligence 
@@ -48,6 +35,18 @@
 ☁️ **Cloud & Deployment:** AWS, Azure  
 
 📊 **Data Processing & Visualization:** NumPy, Pandas, Matplotlib
+
+---
+
+## 🔬 **Research & Publications**  
+
+#### 📖 Metaverse Platform Specialized in Discussion and Debate Functions in Online Communication Systems
+📍 *2024* | **Authors: Minsu Kim, Jaehyun Byun, Tak Woo**  
+🔹 연구의 핵심 내용 요약 (1~2줄)  
+
+#### 📖 Designing Haptics feedback to improve social phobia and implementing VRET environment for data analysis
+📍 *2024* | **Authors: Jaehyun Byun, Jihye Ryu, Seokhee Jeon**  
+🔹 연구의 핵심 내용 요약 (1~2줄)  
 
 ---
 
