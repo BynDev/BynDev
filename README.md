@@ -32,7 +32,9 @@
 
 🎨 **UX/UI & Design:** Figma, Blender, Unity UI Toolkit
 
-☁️ **Cloud & Deployment:** AWS, Azure  
+☁️ **Cloud & Database:** AWS, Azure, MySql  
+
+🌐 **Networking:** WebRTC, REST API, WebSockets
 
 📊 **Data Processing & Visualization:** NumPy, Pandas, Matplotlib
 
