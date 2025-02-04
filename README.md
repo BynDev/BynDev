@@ -2,36 +2,51 @@
   <img src="Intro.gif" width="450" />
 </p>
 
-## I'm Byn, and I make Human-Centered Design and Engineering.   👋
+# 🏆 **Byn | Human-Centered Design & Computing**  
+🚀 Passionate about Human-Computer Interaction, Artificial Intelligence, and Extended Reality  
 
-Welcome to my GitHub profile! [WebCV](https://jaehyunbyun.netlify.app/) / [Blog Website]( https://metahyeon.tistory.com/)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)  
 
-**- Human-Computer Interaction**
+## 🔬 **Research & Publications**  
 
-**- Computer Graphics**
+---
 
-**- AI & Computer Vision**
+## 💡 **Research Interests**  
+- Human-Computer Interaction  
+- Artificial Intelligence 
+- Extended Reality  
+- User-Centered Design  
 
-**- Virtual Reality**
+---
 
-## I'm currently working on
-- Seoul National University Hostpital [[Institute of Convergence Medicine with Innovative Technology](https://snuh.medisc.org/)] 2024.09 ~
-- Kyunghee University [[Haptics & Virtual Reality Lab](http://haptics.khu.ac.kr/)] 2024.01 ~ 2024.06
+## 🛠 **Projects & Open Source Contributions**  
+### 🎯 **[I-there]** – AI-Powered [Application Type]  
+- Developed an AI-driven system using **[Technology Stack: PyTorch, TensorFlow, ONNX, etc.]**  
+- Achieved **[Performance Metric: Accuracy, Speed-up, etc.]** through **[Optimization Method]**  
+- Integrated into a real-world application for **[Use Case: Medical, Industrial, etc.]**  
+- [🔗 GitHub Repo](#) | [📄 Paper](#)  
 
-## Technologies & Tools
+### 🎯 **[TramScape To Korea]** – Real-time [Technology Application]  
+- Built a high-performance pipeline for **[Specific Task]** using **[Technology]**  
+- Implemented **[Optimization/Novel Methodology]** to enhance **[Metric: Latency, Efficiency, etc.]**  
+- [🔗 GitHub Repo](#) | [🎥 Demo](#)  
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+---
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+## 📌 **Skills & Tech Stack**  
+💻 **Programming:** C++, C#, Python, Kotlin, Lua  
+🧠 **AI/ML:** PyTorch, TensorFlow, OpenCV, SciPy  
+🖥️ **Rendering:** DirectX, OpenGL  
+🛠 **Dev Tools:** Git  
+☁️ **Cloud & Deployment:** AWS, Azure  
 
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![DirectX](https://img.shields.io/badge/DirectX-0078D6?style=for-the-badge&logo=directx&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=Figma&logoColor=white)
+---
 
+## 📈 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)
+---
+
+## 📫 **Connect With Me**  
+🔗 [LinkedIn]([#](https://www.linkedin.com/in/jaehyun-byun-322bb92aa/)) | ✉️ Email: bjh1750@khu.ac.kr | 🌐 [Personal Website]([#](https://jaehyunbyun.netlify.app/))  
