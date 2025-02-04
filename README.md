@@ -13,11 +13,11 @@
 ## 🔬 **Research & Publications**  
 
 #### 📖 Metaverse Platform Specialized in Discussion and Debate Functions in Online Communication Systems
-📍 *2024* | **저자: Minsu Kim, Jaehyun Byun, Tak Woo**  
+📍 *2024* | **Authors: Minsu Kim, Jaehyun Byun, Tak Woo**  
 🔹 연구의 핵심 내용 요약 (1~2줄)  
 
 #### 📖 Designing Haptics feedback to improve social phobia and implementing VRET environment for data analysis
-📍 *2024* | **저자: Jaehyun Byun, Jihye Ryu, Seokhee Jeon**  
+📍 *2024* | **Authors: Jaehyun Byun, Jihye Ryu, Seokhee Jeon**  
 🔹 연구의 핵심 내용 요약 (1~2줄)  
 
 ---
@@ -32,10 +32,10 @@
 
 ## 🛠 **Projects**  
 ### 🎯 **[I-there]** – 
-- Developed an AI-driven system using **[Technology Stack: PyTorch, TensorFlow, ONNX, etc.]**  
-- Achieved **[Performance Metric: Accuracy, Speed-up, etc.]** through **[Optimization Method]**  
-- Integrated into a real-world application for **[Use Case: Medical, Industrial, etc.]**  
-- [🔗 GitHub Repo](#) | [📄 Paper](#)  
+- Developed an AI-driven system using **MRTK3, SnapDragonSpaces, Pytorch, MySQL, Baraccuda**  
+- Achieved **[National IT Industry Promotion Agency's President Award]** through **XR Device Make A Thon**  
+- Integrated into a real-world application for **Medical, Industrial**  
+- [🔗 GitHub Repo](#)  
 
 ### 🎯 **[TramScape To Korea]**  
 - Built a high-performance pipeline for **[Specific Task]** using **[Technology]**  
@@ -50,16 +50,20 @@
 ### 🎯 **[Calmpilot]**  
 - Built a high-performance pipeline for **[Specific Task]** using **[Technology]**  
 - Implemented **[Optimization/Novel Methodology]** to enhance **[Metric: Latency, Efficiency, etc.]**  
-- [🔗 GitHub Repo](#) | [🎥 Demo](#)
+- [🔗 GitHub Repo](#) | [📄 Paper](#)
 
 ---
 
 ## 📌 **Skills & Tech Stack**  
 💻 **Programming:** C++, C#, Python, Kotlin, Lua  
+🎮 **Game Engines & Simulation:** Unity, Unreal Engine 
+🕶️ **Interaction**: Azure Kinect, Leap Motion, Meta Quest, Haptic Suits, Holelense, Tobii eye
 🧠 **AI/ML:** PyTorch, TensorFlow, OpenCV, SciPy  
 🖥️ **Rendering:** DirectX, OpenGL  
-🛠 **Dev Tools:** Git  
+🚀 **AR/VR Development:** XRI, OVR, MRTK3, SnapDragonSpaces, ARFoundation
+🎨 **UX/UI & Design:** Figma, Blender, Unity UI Toolkit
 ☁️ **Cloud & Deployment:** AWS, Azure  
+📊 **Data Processing & Visualization:** NumPy, Pandas, Matplotlib
 
 ---
 
