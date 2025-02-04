@@ -59,9 +59,9 @@
 
 🎮 **Game Engines & Simulation:** Unity, Unreal Engine 
 
-🕶️ **Interaction**: Azure Kinect, Leap Motion, Meta Quest, Haptic Suits, Holelense, Tobii eye
+🕶️ **Interaction**: Azure Kinect, Leap Motion, Meta Quest, Haptic Suits, Holelense, Tobii eye tracker, Arduino
 
-🧠 **AI/ML:** PyTorch, TensorFlow, OpenCV, SciPy  
+🧠 **AI/ML:** PyTorch, TensorFlow, OpenCV, SciPy, ONNX  
 
 🖥️ **Rendering:** DirectX, OpenGL  
 
