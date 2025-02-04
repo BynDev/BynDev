@@ -12,11 +12,11 @@
 
 ## 🔬 **Research & Publications**  
 
-### 📖 Metaverse Platform Specialized in Discussion and Debate Functions in Online Communication Systems
+#### 📖 Metaverse Platform Specialized in Discussion and Debate Functions in Online Communication Systems
 📍 *2024* | **저자: Minsu Kim, Jaehyun Byun, Tak Woo**  
 🔹 연구의 핵심 내용 요약 (1~2줄)  
 
-### 📖 Designing Haptics feedback to improve social phobia and implementing VRET environment for data analysis
+#### 📖 Designing Haptics feedback to improve social phobia and implementing VRET environment for data analysis
 📍 *2024* | **저자: Jaehyun Byun, Jihye Ryu, Seokhee Jeon**  
 🔹 연구의 핵심 내용 요약 (1~2줄)  
 
@@ -31,13 +31,13 @@
 ---
 
 ## 🛠 **Projects**  
-### 🎯 **[I-there]** – AI-Powered [Application Type]  
+### 🎯 **[I-there]** – 
 - Developed an AI-driven system using **[Technology Stack: PyTorch, TensorFlow, ONNX, etc.]**  
 - Achieved **[Performance Metric: Accuracy, Speed-up, etc.]** through **[Optimization Method]**  
 - Integrated into a real-world application for **[Use Case: Medical, Industrial, etc.]**  
 - [🔗 GitHub Repo](#) | [📄 Paper](#)  
 
-### 🎯 **[TramScape To Korea]** – Real-time [Technology Application]  
+### 🎯 **[TramScape To Korea]**  
 - Built a high-performance pipeline for **[Specific Task]** using **[Technology]**  
 - Implemented **[Optimization/Novel Methodology]** to enhance **[Metric: Latency, Efficiency, etc.]**  
 - [🔗 GitHub Repo](#) | [🎥 Demo](#)  
