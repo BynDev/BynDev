@@ -53,7 +53,7 @@
 ## 🛠 **Projects**  
 ### 🎯 **[I-there]** 
 - Developed an AI-driven system using **MRTK3, SnapDragonSpaces, Pytorch, MySQL, Baraccuda**  
-- Achieved **[National IT Industry Promotion Agency's President Award]** through **XR Device Make A Thon**  
+- Achieved **National IT Industry Promotion Agency's President Award** through **XR Device Make A Thon**  
 - Integrated into a real-world application for **Medical, Industrial**  
 - [🔗 GitHub Repo](#)  
 
