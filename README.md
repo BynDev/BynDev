@@ -43,8 +43,8 @@
 ---
 
 ## 📈 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaehyeonByun&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/JaehyeonByun=your-username&layout=compact&theme=dark)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)
 ---
 
