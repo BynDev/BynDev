@@ -40,7 +40,17 @@
 ### 🎯 **[TramScape To Korea]**  
 - Built a high-performance pipeline for **[Specific Task]** using **[Technology]**  
 - Implemented **[Optimization/Novel Methodology]** to enhance **[Metric: Latency, Efficiency, etc.]**  
-- [🔗 GitHub Repo](#) | [🎥 Demo](#)  
+- [🔗 GitHub Repo](#) | [🎥 Demo](#)
+
+  ### 🎯 **[Xterilize]**  
+- Built a high-performance pipeline for **[Specific Task]** using **[Technology]**  
+- Implemented **[Optimization/Novel Methodology]** to enhance **[Metric: Latency, Efficiency, etc.]**  
+- [🔗 GitHub Repo](#) | [🎥 Demo](#)
+
+### 🎯 **[Calmpilot]**  
+- Built a high-performance pipeline for **[Specific Task]** using **[Technology]**  
+- Implemented **[Optimization/Novel Methodology]** to enhance **[Metric: Latency, Efficiency, etc.]**  
+- [🔗 GitHub Repo](#) | [🎥 Demo](#)
 
 ---
 
@@ -53,9 +63,15 @@
 
 ---
 
-## 📈 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaehyeonByun&show_icons=true&theme=dark)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)
+## 🔗 **Side Projects & Repositories**  
+🔹 **[Panoramic Stitching]** – 컴퓨터 비젼 파노라마 이미지 생성 알고리즘 구현 | [🔗 GitHub Repo](#)
+🔹 **[Microgravity Interaction]** – Impulse-based Simulation 및 Penetration Contact Dynamics 기반 Leap Motion2 무중력 상호작용 구현 | [🔗 GitHub Repo](#) 
+🔹 **[IMU LSTM Hand Tracking]** – IMU 데이터셋 기반 LSTM 핸드 트레킹 예측 | [🔗 GitHub Repo](#)
+🔹 **[Unreal Kinematics Optimization]** – 언리얼 엔진 키네마틱 구현 및 최적화 실습 | [🔗 GitHub Repo](#)  
+🔹 **[Body Tracking Motion Parallax]** – Azure Kinect 기반 유니티 엔진 모션 패럴랙스 구현 | [🔗 GitHub Repo](#)  
+🔹 **[DirectX11 Graphics Engines]** – WinAPI 및 DirectX11 기반 자체 그래픽 엔진 구현 | [🔗 GitHub Repo](#)  
+🔹 **[CNN Image Classification]** – 객체 지향 CNN 기반 이미지 Classification 알고리즘 구  | [🔗 GitHub Repo](#)  
+
 ---
 
 ## 📫 **Connect With Me**  
