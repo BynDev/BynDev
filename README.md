@@ -5,7 +5,7 @@
 # 🏆 **Byn | Human-Centered Design & Computing**  
 🚀 Passionate about Human-Computer Interaction, Artificial Intelligence, and Extended Reality  
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)  
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=BynDev&color=blue)  
 
 🌍 **[Portfolio Website](https://jaehyunbyun.netlify.app/)**  
 
