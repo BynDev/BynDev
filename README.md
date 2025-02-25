@@ -95,6 +95,10 @@
 🔹 **CNN Image Classification** – Object-oriented CNN-based image classification algorithm | 🔗 GitHub Repo  
 
 ---
+## 💻 **Algorithms** 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)
+
+---
 
 ## 📫 **Connect With Me**  
 ✉️ Email: bjh1750@khu.ac.kr
