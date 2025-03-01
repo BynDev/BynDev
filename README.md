@@ -43,7 +43,7 @@
 ## 🔬 **Research & Publications**  
 
 #### 📖 Le Petit Care: A Child-Attuned Design for Personalized ADHD Symptom Management Through AI-powered Extended Reality 
-📍 *ACM CHI 2025* | **Authors: Jaehyun Byun, Chowon Joung, Yerim Lee, Suyun Lee, Wooky Won**  
+📍 *ACM CHI'EA 2025* | **Authors: Jaehyun Byun, Chowon Joung, Yerim Lee, Suyun Lee, Wooky Won**  
 
 #### 📖 Metaverse Platform Specialized in Discussion and Debate Functions in Online Communication Systems
 📍 *JDCS 2024* | **Authors: Minsu Kim, Jaehyun Byun, Tak Woo**  
