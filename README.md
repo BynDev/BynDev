@@ -2,7 +2,7 @@
   <img src="Intro.gif" width="450" />
 </p>
 
-# 🏆 **Byn | Human-Centered Design & Computing**  
+# 🏆 **Byn | Human-Centered Computing & Design**  
 🚀 Passionate about Human-Computer Interaction, Artificial Intelligence, and Extended Reality  
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=BynDev&color=blue)  
