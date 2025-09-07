@@ -18,11 +18,11 @@
 ---
 
 ## 📌 **Skills & Tech Stack**  
-💻 **Programming:** C++, C#, Python, Kotlin, Lua  
+💻 **Programming:** C++, C#, Python, Lua  
 
 🎮 **Game Engines & Simulation:** Unity, Unreal Engine 
 
-🕶️ **Interaction**: Azure Kinect, Leap Motion, Meta Quest, Haptic Suits, Holelense, Tobii eye tracker, Arduino
+🕶️ **Interaction**: Azure Kinect, Leap Motion, Meta Quest, Haptic Suits, Holelense, Tobii eye tracker
 
 🧠 **AI/ML:** PyTorch, TensorFlow, OpenCV, SciPy, ONNX  
 
@@ -33,8 +33,6 @@
 🎨 **UX/UI & Design:** Figma, Blender, Unity UI Toolkit
 
 ☁️ **Cloud & Database:** AWS, Azure, MySql  
-
-🌐 **Networking:** WebRTC, REST API, WebSockets
 
 📊 **Data Processing & Visualization:** NumPy, Pandas, Matplotlib
 
