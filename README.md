@@ -38,20 +38,6 @@
 
 📊 **Data Processing & Visualization:** NumPy, Pandas, Matplotlib
 
----
-
-## 🔬 **Research & Publications**  
-
-#### 📖 Le Petit Care: A Child-Attuned Design for Personalized ADHD Symptom Management Through AI-powered Extended Reality 
-📍 *ACM CHI'EA 2025* | **Authors: Jaehyun Byun, Chowon Joung, Yerim Lee, Suyun Lee, Wooky Won**  
-
-#### 📖 Metaverse Platform Specialized in Discussion and Debate Functions in Online Communication Systems
-📍 *JDCS 2024* | **Authors: Minsu Kim, Jaehyun Byun, Tak Woo**  
-
-#### 📖 Designing Haptics feedback to improve social phobia and implementing VRET environment for data analysis
-📍 *KCC 2024* | **Authors: Jaehyun Byun, Jihye Ryu, Seokhee Jeon**    
-
----
 
 ## 🛠 **Projects**  
 ### 🎯 **I-there** 
