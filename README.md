@@ -71,8 +71,13 @@ I work flexibly with cross-functional teams, focused on making every interaction
 
 <br>
 
-## **Algorithms** 
+<div align="center">
+
+## **Algorithms**
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)
+
+</div>
 
 ---
 
