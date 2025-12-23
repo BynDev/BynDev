@@ -99,5 +99,4 @@ I work flexibly with cross-functional teams, focused on making every interaction
 
 ---
 
-## 📫 **Connect With Me**  
-✉️ Email: bjh1750@khu.ac.kr
+<br>
