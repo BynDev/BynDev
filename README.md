@@ -19,9 +19,11 @@
 
 <br>
 
-I work flexibly with cross-functional teams, focused on making every interaction and experience truly resonate. Defining product vision and architecture is where I excel.
+I work flexibly with cross-functional teams, focused on making every interaction and experience truly resonate. 
+Defining product vision and architecture is where I excel.
 
-저는 크로스-펑셔널 팀과 유연하게 협업하며, 사람에게 와닿는 모든 인터랙션과 경험이 의미 있게 만들어지는 데 집중합니다. 특히 프로덕트의 큰 방향성과 아키텍처를 정의하는 데 강점이 있습니다.
+저는 크로스-펑셔널 팀과 유연하게 협업하며, 사람에게 와닿는 모든 인터랙션과 경험이 의미 있게 만들어지는 데 집중합니다. 
+특히 프로덕트의 큰 방향성과 아키텍처를 정의하는 데 강점이 있습니다.
 
 <br>
 
