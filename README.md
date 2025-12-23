@@ -1,7 +1,6 @@
 <div align="center">
 
 # Jaehyun Byun
-![Intro](./Me.jpg)
 
 **PM with fluency, Developer with team focus**
 
@@ -12,13 +11,12 @@
 </div>
 
 ---
-
+![Intro](./Me.jpg)
 <br>
-
 > *A **PM** with development experience can think beyond 'what' to build—and into 'how' to build it.*  
 > *A **developer** who values collaboration can turn 'my code' into 'our asset.'*
-
 <br>
+
 
 I work flexibly with cross-functional teams, focused on making every interaction and experience truly resonate. 
 
