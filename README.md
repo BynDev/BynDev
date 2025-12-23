@@ -1,6 +1,10 @@
 5<div align="center">
 
-# Jaehyun Byun
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&color=70FFC3&center=true&vCenter=true&width=300&height=50&lines=Jaehyun+Byun)](https://git.io/typing-svg)
+
+</div>
 
 **PM with dev fluency, Developer with team focus**
 
