@@ -1,10 +1,14 @@
-markdown<div align="center">
+<div align="center">
 
 # Jaehyun Byun
 
 <img src="./Me.jpg" width="600">
 
+<br>
+
 **PM with dev fluency, Developer with team focus**
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-link)
 [![Blog](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](your-tistory-link)
