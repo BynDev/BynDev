@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jaehyun Byun
-[![Intro](./Me.mp4)](https://github.com/user-attachments/assets/Me.mp4)
+https://github.com/user-attachments/assets/a9cd783a-27c7-4a10-b9d3-2d8a3e5fb58c
 
 **PM with fluency, Developer with team focus**
 
