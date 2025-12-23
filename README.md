@@ -96,5 +96,3 @@ I work flexibly with cross-functional teams, focused on making every interaction
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)
 
 </div>
-
-<br>
