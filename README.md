@@ -97,6 +97,4 @@ I work flexibly with cross-functional teams, focused on making every interaction
 
 </div>
 
----
-
 <br>
