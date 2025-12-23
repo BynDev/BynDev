@@ -2,18 +2,17 @@
   <img src="Intro.gif" width="450" />
 </p>
 
-# 🏆 **Jaehyun Byun**  
-🚀 개발을 이해하는 PM & 협업을 중시하는 개발자 
+# 🏆 **Jaehyun Byun** 
+🚀 **PM with dev fluency, Developer with team focus** 
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=BynDev&color=blue)  
+I am a Product Manager with hands-on development experience, and a developer who values collaboration. A PM with development experience can think beyond 'what' to build—and into 'how' to build it. A developer who values collaboration can turn 'my code' into 'our asset.' I focus on understanding technical context through direct implementation, and on creating outcomes that grow together with cross-functional teams through flexible collaboration.
 
-🌍 **[Portfolio Website](https://jaehyunbyun.netlify.app/)**  
+개발 경험을 갖춘 프로덕트 매니저(PM)이자, 협업을 중시하는 개발자입니다. 개발 경험이 있는 PM은 '무엇을'뿐 아니라 '어떻게'까지 함께 고민할 수 있습니다. 협업을 중시하는 개발자는 '나의 코드'를 '우리의 자산'으로 바꿀 수 있습니다. 저는 직접 구현하며 기술적 맥락을 이해하고, 크로스-펑셔널 팀과 유연하게 협업해 함께 성장하는 결과물을 만드는 데 집중하고 있습니다.  
 
-## 💡 **Research Interests**  
-- Human-Computer Interaction  
-- Artificial Intelligence 
-- Extended Reality  
-- User-Centered Design  
+## 💡 **Domain Expertise**  
+- Game
+- Interactive Intelligence
+- Mixed Reality  
 
 ---
 
