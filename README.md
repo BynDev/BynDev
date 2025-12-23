@@ -24,7 +24,7 @@ I work flexibly with cross-functional teams, focused on making every interaction
 
 저는 크로스-펑셔널 팀과 유연하게 협업하며, 사람에게 와닿는 모든 인터랙션과 경험이 의미 있게 만들어지는 데 집중합니다.
 
-<p>⦁ Kyung Hee University · <em>B.S. Computer Science</em> · 2020 – 2026</p>
+<p>⦁ **Kyung Hee University** · <em>B.S. Computer Science</em> · 2020 – 2026</p>
 
 
 <br>
