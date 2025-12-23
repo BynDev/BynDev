@@ -62,6 +62,47 @@ I work flexibly with cross-functional teams, focused on making every interaction
 
 <br>
 
+## 📂 Featured Projects
+
+---
+
+### 🎮 Le Petit Care
+**PM 1 · Dev 3 · Design 2 · Research 1**
+
+> ADHD 아동을 위한 AI 기반 XR 치료 게임
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Meta Quest](https://img.shields.io/badge/Meta_Quest-0467DF?style=flat-square&logo=meta&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+- LLM 기반 실시간 아동 반응 분석 시스템
+- 음성 인식 기반 인터랙션 파이프라인
+- 적응형 난이도 조절 알고리즘
+
+🏆 **ACM CHI 2025 SDC Finalist (Top 4, 4.6%)**
+
+---
+
+### 🌐 CrossGaussian
+**PM 1 · Dev 2 · Research 1**
+
+> 3D Gaussian Splatting 기반 원격 협업 시스템
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+- 클라우드 GPU 기반 실시간 3DGS 렌더링
+- 다중 사용자 공간 동기화 아키텍처
+- 저지연 스트리밍 파이프라인
+
+📄 **UIST 2025 Poster · ISMAR 2025 Demo**
+
+---
+
+
+
+<br>
+
 ## **Algorithms** 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)
 
