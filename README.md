@@ -2,7 +2,7 @@
 
 # Jaehyun Byun
 
-<img src="./Me.jpg" width="600">
+<img src="./Me.jpg" width="800">
 
 <br>
 
