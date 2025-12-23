@@ -28,73 +28,38 @@ I work flexibly with cross-functional teams, focused on making every interaction
 
 <br>
 
-## 💡 Domain Expertise
+<div align="center">
+
+## Tech Stack
+
+### Product Management
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=microsoftazure&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+
+### Programming
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+
+### Design & Prototyping
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
 
 ---
-
-## 📌 **Skills & Tech Stack**  
-💻 **Programming:** C++, C#, Python, Lua  
-
-🎮 **Game Engines & Simulation:** Unity, Unreal Engine 
-
-🕶️ **Interaction**: Azure Kinect, Leap Motion, Meta Quest, Haptic Suits, Holelense, Tobii eye tracker
-
-🧠 **AI/ML:** PyTorch, TensorFlow, OpenCV, SciPy, ONNX  
-
-🖥️ **Rendering:** DirectX, OpenGL  
-
-🚀 **AR/VR Development:** XRI, OVR, MRTK3, SnapDragonSpaces, ARFoundation
-
-🎨 **UX/UI & Design:** Figma, Blender, Unity UI Toolkit
-
-☁️ **Cloud & Database:** AWS, Azure, MySql  
-
-📊 **Data Processing & Visualization:** NumPy, Pandas, Matplotlib
-
-
-## 🛠 **Projects**  
-### 🎯 **I-there** 
-- Developed an AI-driven system using **MRTK3, SnapDragonSpaces, Pytorch, MySQL, Baraccuda**  
-- Achieved **National IT Industry Promotion Agency's President Award** through **XR Device Make A Thon**  
-- Integrated into a real-world application for **Medical, Industrial**  
-- [🔗 GitHub Repo](#)  
-
-### 🎯 **TramScape To Korea**  
-- Built a high-performance pipeline for **[Specific Task]** using **[Technology]**  
-- Implemented **[Optimization/Novel Methodology]** to enhance **[Metric: Latency, Efficiency, etc.]**  
-- [🔗 GitHub Repo](#) | [🎥 Demo](#)
-
-### 🎯 **Xterilize**  
-- Built a high-performance pipeline for **[Specific Task]** using **[Technology]**  
-- Implemented **[Optimization/Novel Methodology]** to enhance **[Metric: Latency, Efficiency, etc.]**  
-- [🔗 GitHub Repo](#) | [🎥 Demo](#)
-
-### 🎯 **Calmpilot**  
-- Built a high-performance pipeline for **[Specific Task]** using **[Technology]**  
-- Implemented **[Optimization/Novel Methodology]** to enhance **[Metric: Latency, Efficiency, etc.]**  
-- [🔗 GitHub Repo](#) | [📄 Paper](#)
-
----
-
-
-## 🔗 **Side Projects & Repositories**  
-
-🔹 **Panoramic Stitching** – Implementation of a panoramic image generation algorithm in computer vision | 🔗 GitHub Repo
-
-🔹 **Microgravity** – Impulse-based simulation and penetration contact dynamics for microgravity interaction | 🔗 GitHub Repo
-
-🔹 **IMU LSTM Hand Tracking** – LSTM-based hand tracking prediction using IMU dataset | 🔗 GitHub Repo
-
-🔹 **Unreal Kinematics Optimization** – Kinematics implementation and optimization in Unreal Engine | 🔗 GitHub Repo
-
-🔹 **Body Tracking Motion Parallax** – Motion parallax implementation in Unity using Azure Kinect | 🔗 GitHub Repo
-
-🔹 **DirectX11 Graphics Engine** – Custom graphics engine implementation using WinAPI and DirectX11 | 🔗 GitHub Repo
-
-🔹 **CNN Image Classification** – Object-oriented CNN-based image classification algorithm | 🔗 GitHub Repo  
-
----
-## 💻 **Algorithms** 
+## **Algorithms** 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)
 
 ---
