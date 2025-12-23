@@ -87,7 +87,7 @@ I work flexibly with cross-functional teams, focused on making every interaction
 
 - 김민수, **변재현**, 우탁. (2024). *온라인 소통 체계 확립: 토론과 토의 기능이 특화된 메타버스 플랫폼 설계*, 디지털콘텐츠학회논문지, 25(6). [🔗](https://doi.org/10.9728/dcs.2024.25.6.1431)
 
-
+<div align="center">
 
 <br>
 
