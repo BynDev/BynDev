@@ -59,6 +59,9 @@ I work flexibly with cross-functional teams, focused on making every interaction
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
 
 ---
+
+<br>
+
 ## **Algorithms** 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)
 
