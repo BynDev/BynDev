@@ -2,7 +2,7 @@
   <img src="Intro.gif" width="450" />
 </p>
 
-# 🏆 **Hyn | Human-Centered Computing & Design**  
+# 🏆 **Jaehyun Byun | 개발을 이해하는 PM & 협업을 중시하는 개발자**  
 🚀 Passionate about Human-Computer Interaction, Artificial Intelligence, and Extended Reality  
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=BynDev&color=blue)  
