@@ -2,8 +2,6 @@
 
 # Jaehyun Byun
 
-<img src="./Me.jpg" width="650">
-
 <br>
 
 **PM with dev fluency, Developer with team focus**
