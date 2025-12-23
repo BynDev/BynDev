@@ -27,6 +27,8 @@ I work flexibly with cross-functional teams, focused on making every interaction
 
 <br>
 
+<div align="center">
+
 ## Tech Stack
 
 ### Product Management
