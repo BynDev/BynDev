@@ -9,9 +9,9 @@
 
 **PM with dev fluency, Developer with team focus**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-link)
-[![Blog](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](your-tistory-link)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyunbyun/)
+[![Blog](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bjh1750@email.com)
 
 </div>
 
