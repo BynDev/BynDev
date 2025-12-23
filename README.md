@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jaehyun Byun
-![Intro](./Intro.gif)
+![Intro](./Me.gif)
 
 **PM with fluency, Developer with team focus**
 
