@@ -65,7 +65,7 @@ I work flexibly with cross-functional teams, focused on making every interaction
 <br>
 
 ## **Representative Projects**  
-### 🎯 **I-there**: *AI-driven ADHD management & behavioral development game for children*
+### 🧒🏻 **I-there**: *AI-driven ADHD management & behavioral development game for children*
 - **Role**: Team Lead (PM & Lead Dev) | **Team**: Planning 2 · Art 3 · Programming 3
 - **Client**: Gameplay scenario & interaction implementation based on Game Design/Art polish | **AI**: Research-based model implementation, ONNX integration in Unity | **Backend**: User data preprocessing, REST API for centralized DB logging
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
@@ -74,7 +74,22 @@ I work flexibly with cross-functional teams, focused on making every interaction
 
 <br>
 
-<div align="center">
+## **Certifications**
+- **SQL Developer (SQLD)** · Korea Data Agency (한국데이터산업진흥원) 
+- **Microsoft Azure AI Fundamentals (AI-900)** · Microsoft Certified
+
+<br>
+
+## **Publications**
+- **J. Byun**, et al. (2025). *CrossGaussian: Enhancing Remote Collaboration through 3D Gaussian Splatting and Real-time 360° Streaming*, Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST ’25 Adjunct), Busan, Republic of Korea, September 28 – October 1, 2025, ACM Digital Library, pp. 1–3. [🔗](https://doi.org/10.1145/3746058.3758348)
+
+- **J. Byun**, et al. (2025). *Le Petit Care: A Child-Attuned Design for Personalized ADHD Symptom Management Through AI-powered Extended Reality*, Extended Abstracts of the 2025 CHI Conference on Human Factors in Computing Systems (CHI EA ’25), Yokohama, Japan, April 26 – May 1, 2025, 7 pages. [🔗](https://doi.org/10.1145/3706599.3720300)
+
+- 김민수, **변재현**, 우탁. (2024). *온라인 소통 체계 확립: 토론과 토의 기능이 특화된 메타버스 플랫폼 설계*, 디지털콘텐츠학회논문지, 25(6). [🔗](https://doi.org/10.9728/dcs.2024.25.6.1431)
+
+
+
+<br>
 
 ## **Algorithms**
 
