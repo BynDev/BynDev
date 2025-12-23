@@ -1,8 +1,10 @@
-<div align="center">
+markdown<div align="center">
 
 # Jaehyun Byun
 
-**PM with fluency, Developer with team focus**
+<img src="./Me.jpg" width="600">
+
+**PM with dev fluency, Developer with team focus**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-link)
 [![Blog](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](your-tistory-link)
@@ -11,11 +13,6 @@
 </div>
 
 ---
-<div align="center">
-  <img src="./Me.jpg" width="600">
-</div>
-
-<br>
 
 > *A **PM** with development experience can think beyond 'what' to build—and into 'how' to build it.*  
 > *A **developer** who values collaboration can turn 'my code' into 'our asset.'*
