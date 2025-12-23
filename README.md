@@ -11,10 +11,15 @@
 </div>
 
 ---
-![Intro](./Me.jpg)
+<div align="center">
+  <img src="./Me.jpg" width="800">
+</div>
+
 <br>
+
 > *A **PM** with development experience can think beyond 'what' to build—and into 'how' to build it.*  
 > *A **developer** who values collaboration can turn 'my code' into 'our asset.'*
+
 <br>
 
 
