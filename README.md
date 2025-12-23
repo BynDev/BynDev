@@ -1,8 +1,8 @@
-<div align="center">
+5<div align="center">
 
 # Jaehyun Byun
 
-<img src="./Me.jpg" width="700">
+<img src="./Me.jpg" width="650">
 
 <br>
 
