@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&color=70FFC3&center=true&vCenter=true&width=420&height=90&yPad=20&lines=Jaehyun+Byun)](https://git.io/typing-svg)
 
-
 </div>
 
 **PM with dev fluency, Developer with team focus**
