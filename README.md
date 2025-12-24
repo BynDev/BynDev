@@ -82,6 +82,12 @@ I work flexibly with cross-functional teams, focused on making every interaction
 
 <br>
 
+## **Award**
+- **ACM CHI 2025** Student Design Competition Finalist (Top 4, First Author)
+- **과학기술정보통신부** 주최 XR 디바이스 콘텐츠 메이커톤 2024 정보통신산업진흥원장상 (상금 500만원, 팀장)
+
+<br>
+
 ## **Publications**
 - **J. Byun**, et al. (2025). *CrossGaussian: Enhancing Remote Collaboration through 3D Gaussian Splatting and Real-time 360° Streaming*, Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST ’25 Adjunct), Busan, Republic of Korea, September 28 – October 1, 2025, ACM Digital Library, pp. 1–3. [🔗](https://doi.org/10.1145/3746058.3758348)
 
