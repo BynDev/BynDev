@@ -86,6 +86,7 @@ I work flexibly with cross-functional teams, focused on making every interaction
 - **ACM CHI 2025** Student Design Competition Finalist (Top 4, First Author)
 - **과학기술정보통신부** 주최 2024 XR 디바이스 콘텐츠 메이커톤 정보통신산업진흥원장상 (상금 500만원, 팀장)
 - **Vietnam Mobile Summit 2024** · Startup Exhibitor (University Representative, Kyung Hee University)
+- **한국관광공사** 주최 2024 실감 관광 콘텐츠 경진대회 청중 현장 시연 및 한국관광공사장상 (최우수상)
 
 <br>
 
