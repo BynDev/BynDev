@@ -84,9 +84,9 @@ I work flexibly with cross-functional teams, focused on making every interaction
 <br>
 
 ## **Publications**
-- **J. Byun**, et al. (2025). *CrossGaussian: Enhancing Remote Collaboration through 3D Gaussian Splatting and Real-time 360° Streaming*, Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST ’25 Adjunct), Busan, Republic of Korea, September 28 – October 1, 2025, ACM Digital Library, pp. 1–3. [🔗](https://doi.org/10.1145/3746058.3758348)
+- **J. Byun**, et al. (2025). *CrossGaussian: Enhancing Remote** Collaboration through 3D Gaussian Splatting and Real-time 360° Streaming*, Adjunct Proceedings of the 38th Annual **ACM Symposium on User Interface Software and Technology (UIST ’25 Adjunct), Busan, Republic of Korea, September 28 – October 1, 2025, ACM Digital Library, pp. 1–3. [🔗](https://doi.org/10.1145/3746058.3758348)
 
-- **J. Byun**, et al. (2025). *Le Petit Care: A Child-Attuned Design for Personalized ADHD Symptom Management Through AI-powered Extended Reality*, Extended Abstracts of the 2025 CHI Conference on Human Factors in Computing Systems (CHI EA ’25), Yokohama, Japan, April 26 – May 1, 2025, 7 pages. [🔗](https://doi.org/10.1145/3706599.3720300)
+- **J. Byun**, et al. (2025). *Le Petit Care: A Child-Attuned Design for Personalized ADHD Symptom Management Through AI-powered Extended Reality*, Extended Abstracts of the 2025 CHI **Conference on Human Factors in Computing Systems** (CHI EA ’25), Yokohama, Japan, April 26 – May 1, 2025, 7 pages. [🔗](https://doi.org/10.1145/3706599.3720300)
 
 - 김민수, **변재현**, 우탁. (2024). *온라인 소통 체계 확립: 토론과 토의 기능이 특화된 메타버스 플랫폼 설계*, 디지털콘텐츠학회논문지, 25(6). [🔗](https://doi.org/10.9728/dcs.2024.25.6.1431)
 
