@@ -66,7 +66,7 @@ I work flexibly with cross-functional teams, focused on making every interaction
 
 <br>
 
-## **Representative Projects**  
+## **Side Projects**  
 ### 🧒🏻 **I-there**: *AI-driven ADHD management & behavioral development game for children*
 - **Role**: Team Lead (PM & Lead Dev) | **Team**: Planning 2 · Art 3 · Programming 3
 - **Client**: Gameplay scenario & interaction implementation based on Game Design/Art polish | **AI**: Research-based model implementation, ONNX integration in Unity | **Backend**: User data preprocessing, REST API for centralized DB logging
