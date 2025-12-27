@@ -52,6 +52,7 @@ I work flexibly with cross-functional teams, focused on making every interaction
 ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 
 ### Design & Prototyping
