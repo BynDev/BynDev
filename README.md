@@ -61,6 +61,10 @@ I work flexibly with cross-functional teams, focused on making every interaction
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
 
+### Certifications
+- **SQLD** · SQL Developer
+- **Azure AI-900** · Microsoft Azure AI Fundamentals
+
 ---
 
 </div>
