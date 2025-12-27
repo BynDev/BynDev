@@ -79,14 +79,14 @@ I work flexibly with cross-functional teams, focused on making every interaction
 - **Role**: Research Lead (Research Design & TPM) | **Team**: Client 2 · Backend & Distributed system 2 · Data Anaysis 1
 - **Client**: Remote collaboration simulation in Unity, 3DGS scene compositing & depth-based visualization via HLSL Compute Shader | **Streaming**: TCP-based 360° video streaming protocol, GPU-accelerated encoding/decoding pipeline (FFmpeg, NVIDIA NPP) | **Backend**: Remote GPU server orchestration via SSH/SFTP, automated SfM→3DGS training pipeline (Python, Paramiko)
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-5E5E5E?style=flat-square&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Photon](https://img.shields.io/badge/Photon-004480?style=flat-square&logo=photon&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)  | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-- ACM UIST 2025 Poster & IEEE ISMAR 국제 데모 시연 영어로
-- [*View on GitHub →*](https://github.com/your-repo)
+- **ACM UIST** 2025 Poster & **IEEE ISMAR** 2025 Research Demonstration
 
-### 🖥️ **CrossGaussian**: *Remote Collaborative Design Space with 3D Gaussian Splatting & 360° Live Streaming*
-- **Role**: Research Lead (Research Design & TPM) | **Team**: Client 2 · Backend & Distributed system 2 · Data Anaysis 1
+
+### 🚃 **TramscapeToKoea**: *Virtual Train Journey Game Where Your Movement Becomes the View*
+- **Role**: Role: PM & Interaction Design | Team: Programming 4 · Art 1 
 - **Client**: Gameplay scenario & interaction implementation based on Game Design/Art polish | **AI**: Research-based model implementation, ONNX integration in Unity | **Backend**: User data preprocessing, REST API for centralized DB logging
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-5E5E5E?style=flat-square&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Photon](https://img.shields.io/badge/Photon-004480?style=flat-square&logo=photon&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)  | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-- **과학기술정보통신부** 주최 2024 XR 디바이스 콘텐츠 메이커톤 **정보통신산업진흥원장상** (2위, 팀장)
+- **한국관광공사** 주최 2024 실감관광콘텐츠 경진대회 최우수상 (**한국관광공사장상**)
 - [*View on GitHub →*](https://github.com/your-repo)
 
 ### 🖥️ **Calmpilot**: *Remote Collaborative Design Space with 3D Gaussian Splatting & 360° Live Streaming*
