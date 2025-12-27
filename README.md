@@ -62,7 +62,7 @@ I work flexibly with cross-functional teams, focused on making every interaction
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
 
 ### Certifications
-**SQL Developer (SQLD)** · Korea Data Agency  
+**SQL Developer (SQLD)** · Korea Data Agency (한국데이터산업진흥원)   
 **Microsoft Azure AI Fundamentals (AI-900)** · Microsoft Certified
 
 ---
