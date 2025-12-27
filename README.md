@@ -24,7 +24,7 @@ I work flexibly with cross-functional teams, focused on making every interaction
 I value clear communication and structured documentation and enjoy exploring how emerging technologies can solve real problems.
 
 저는 크로스-펑셔널 팀과 유연하게 협업하며, 사람에게 와닿는 모든 인터랙션과 경험이 의미 있게 만들어지는 데 집중합니다.
-명확하고 체계적인 커뮤니케이션과 개발 자산화를 중시하고 최신 기술의 가능성을 탐구해 이를 실제 문제 해결에 연결하는 데에도 관심이 많습니다.
+명확하고 체계적인 커뮤니케이션과 개발의 자산화를 중시하고 최신 기술의 가능성을 탐구해 이를 실제 문제 해결에 연결하는 데에도 관심이 많습니다.
 
 <p>⦁ <strong>Kyung Hee University</strong> · <em>B.S. Computer Science</em> · 2020 – 2026</p>
 
