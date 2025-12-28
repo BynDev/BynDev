@@ -133,6 +133,8 @@ Hanoi, Vietnam · May 2024
 
 ---
 
+<div align="center">
+
 ## **Algorithms**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)
