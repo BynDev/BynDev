@@ -7,7 +7,7 @@
 
 </div>
 
-**Project Manager fluent in development workflows with a passion for emerging technologies**
+**Dev-fluent Project Manager with a passion for emerging tech**
 
 [![Blog](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyunbyun/)
