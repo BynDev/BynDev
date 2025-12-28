@@ -101,6 +101,18 @@ I work flexibly with cross-functional teams, focused on making every interaction
 
 <br>
 
+## **Training & Programs**
+
+**DigiPen Institute of Technology** · Global Creative Project Summer Program  
+Game Design Intensive · Redmond, USA · July 2024
+
+**Posts & Telecommunications Institute of Technology** · CAU-PTIT Joint Hackathon ([Media Coverage](링크))  
+Hanoi, Vietnam · May 2024
+
+---
+
+<br>
+
 ## **Research**
 
 *CrossGaussian: Enhancing Remote Collaboration through 3D Gaussian Splatting and Real-time 360° Streaming*  
