@@ -1,5 +1,3 @@
-5<div align="center">
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&color=70FFC3&center=true&vCenter=true&lines=Jaehyun+Byun)](https://git.io/typing-svg)
