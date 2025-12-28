@@ -142,3 +142,5 @@ Hanoi, Vietnam · May 2024
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh1750)](https://solved.ac/bjh1750/)
 
 </div>
+
+---
