@@ -99,24 +99,22 @@ I work flexibly with cross-functional teams, focused on making every interaction
 
 <br>
 
-## **Publications**
-- **J. Byun**, et al. (2025). *CrossGaussian: Enhancing Remote** Collaboration through 3D Gaussian Splatting and Real-time 360° Streaming*, Adjunct Proceedings of the 38th Annual **ACM Symposium on User Interface Software and Technology** (UIST ’25 Adjunct), Busan, Republic of Korea, September 28 – October 1, 2025, ACM Digital Library, pp. 1–3. [🔗](https://doi.org/10.1145/3746058.3758348)
+## **Research**
 
-- **J. Byun**, et al. (2025). *Le Petit Care: A Child-Attuned Design for Personalized ADHD Symptom Management Through AI-powered Extended Reality*, Extended Abstracts of the 2025 **CHI Conference on Human Factors in Computing Systems** (CHI EA ’25), Yokohama, Japan, April 26 – May 1, 2025, 7 pages. [🔗](https://doi.org/10.1145/3706599.3720300)
+*CrossGaussian: Enhancing Remote Collaboration through 3D Gaussian Splatting and Real-time 360° Streaming (2025) *  
+Adjunct Proceedings of the 38th Annual **ACM Symposium on User Interface Software and Technology** (UIST ’25 Adjunct) [🔗](https://doi.org/10.1145/3746058.3758348)
+<sub>**Jaehyun Byun**, Byunghoon Kang, Yonghyun Gwon, Hongsong Choi, Yunseo Do, Eunho Kim, Sangkeun Park, Seungjae Oh</sub>
+ 
+*Le Petit Care: A Child-Attuned Design for Personalized ADHD Symptom Management Through AI-powered Extended Reality (2025)*  
+Extended Abstracts of the 2025 **CHI Conference on Human Factors in Computing Systems** (CHI EA ’25) [🔗](https://doi.org/10.1145/3706599.3720300)
+<sub>**Jaehyun Byun**, Chowon Joung, Yerim Lee, Suyun Lee, Wooky Won</sub>
 
-- 김민수, **변재현**, 우탁. (2024). *온라인 소통 체계 확립: 토론과 토의 기능이 특화된 메타버스 플랫폼 설계*, 디지털콘텐츠학회논문지, 25(6). [🔗](https://doi.org/10.9728/dcs.2024.25.6.1431)
+
+*온라인 소통 체계 확립: 토론과 토의 기능이 특화된 메타버스 플랫폼 설계 (2024)*  
+**디지털콘텐츠학회논문지** 25(6) [🔗](https://doi.org/10.9728/dcs.2024.25.6.1431)  
+<sub>김민수, **변재현**, 우탁</sub>
 
 <br>
-
-## **Certifications**
-- **SQL Developer (SQLD)** · Korea Data Agency (한국데이터산업진흥원) 
-- **Microsoft Azure AI Fundamentals (AI-900)** · Microsoft Certified
-
-<div align="center">
-
-<br>
-
-
 
 ## **Algorithms**
 
