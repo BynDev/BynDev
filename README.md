@@ -104,11 +104,11 @@ I work flexibly with cross-functional teams, focused on making every interaction
 ## **Research**
 
 *CrossGaussian: Enhancing Remote Collaboration through 3D Gaussian Splatting and Real-time 360° Streaming*  
-Adjunct Proceedings of the 38th Annual **ACM Symposium on User Interface Software and Technology** (UIST ’25 Adjunct) [🔗](https://doi.org/10.1145/3746058.3758348)
+Adjunct Proceedings of the 38th Annual **ACM Symposium on User Interface Software and Technology** (UIST ’25 Adjunct) [🔗](https://doi.org/10.1145/3746058.3758348)  
 <sub>**Jaehyun Byun**, Byunghoon Kang, Yonghyun Gwon, Hongsong Choi, Yunseo Do, Eunho Kim, Sangkeun Park, Seungjae Oh</sub>
  
 *Le Petit Care: A Child-Attuned Design for Personalized ADHD Symptom Management Through AI-powered Extended Reality*  
-Extended Abstracts of the 2025 **CHI Conference on Human Factors in Computing Systems** (CHI EA ’25) [🔗](https://doi.org/10.1145/3706599.3720300)
+Extended Abstracts of the 2025 **CHI Conference on Human Factors in Computing Systems** (CHI EA ’25) [🔗](https://doi.org/10.1145/3706599.3720300)    
 <sub>**Jaehyun Byun**, Chowon Joung, Yerim Lee, Suyun Lee, Wooky Won</sub>
 
 *Metaverse Platform Specialized in Discussion and Debate Functions in Online Communication Systems*  
