@@ -7,7 +7,7 @@
 
 </div>
 
-**PM fluent in dev workflows, Developer with team focus**
+**Project Manager fluent in development workflows with a passion for emerging technologies**
 
 [![Blog](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyunbyun/)
