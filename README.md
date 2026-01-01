@@ -69,8 +69,6 @@ I've collaborated across art, programming, and design—learning to see from eac
 
 </div>
 
-<br>
-
 ## **Game Projects**  
 ### 🧒🏻 [**I-there**](https://github.com/BynPlay/i-There): *AI-driven ADHD management & behavioral development game for children*
 - **Role**: Team Lead (PM & Lead Dev) | **Team**: Planning 2 · Art 3 · Programming 3
