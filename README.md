@@ -114,7 +114,7 @@ I've collaborated across art, programming, and design—learning to see from eac
 
 <br>
 
-## **Research**
+## **Publication**
 
 *CrossGaussian: Enhancing Remote Collaboration through 3D Gaussian Splatting and Real-time 360° Streaming*  
 Adjunct Proceedings of the 38th Annual **ACM Symposium on User Interface Software and Technology** (UIST ’25 Adjunct) [🔗](https://doi.org/10.1145/3746058.3758348)  
