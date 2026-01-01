@@ -10,9 +10,9 @@
 **변재현, 혁신을 지향하는 게임 메이커**  
 **A Game Maker(PM) Driven by Innovation!**  
 
-[![Blog](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyunbyun/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bjh1750@email.com)
+[![Blog](https://img.shields.io/badge/Tistory-Project_Logs_&_Learnings-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CV_&_Credentials-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyunbyun/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bjh1750@email.com)
 
 </div>
 
