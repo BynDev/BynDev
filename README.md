@@ -95,7 +95,7 @@ I've collaborated across art, programming, and design—learning to see from eac
 
 <br>
 
-## HCI & Data Projects
+## HCI & UX Data Projects
 
 ### 🔮 [**CrossGaussian**](https://dl.acm.org/doi/10.1145/3746058.3758348): *Remote collaboration interaction research using 3D Gaussian Spatting*
 - **Role**: First Author (Research Design & Version control) | **Team**: Game Engine 2 · Backend 2 · Data Anaysis 1
