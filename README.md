@@ -89,8 +89,9 @@ I've collaborated across art, programming, and design—learning to see from eac
 
 
 ### 🚃 **TramscapeToKoea**: *Virtual train journey game where your movement becomes the view*
-- **Role**: PM & Interaction Design | Team: Programming 4 · Art 1 
-- **Client**: Spline-based train gameplay with AI narration | **Interaction**: Body tracking motion parallax with real-time input filtering and camera frustum adjustment | **Graphics**: HDRP rendering pipeline with high-fidelity Korean landmark models
+- **Role**: PM & Interaction Design | Team: Programming 4 · Art 1
+- A** train tourism game** where players' body movements create **parallax effects on the window view**, traveling through **Korea's scenic landmarks**.
+- **[Concept]** Designed "window" interaction metaphor to overcome presence limitations of 2D display games through IxD process and cognitive psychology analysis. **[Visual]** High-quality Korean landmark modeling with HDRP post-processing. **[Experience]** Combined spline-based train movement with AI voice guide, designing a tourism scenario where players explore the view through body movement
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-5E5E5E?style=flat-square&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Lumion](https://img.shields.io/badge/Lumion-0696D7?style=flat-square&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=microsoftazure&logoColor=white)
 - 🏆 **한국관광공사** 주최 2024 실감관광콘텐츠 경진대회 최우수상 (**한국관광공사장상**)
 
