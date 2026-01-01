@@ -96,15 +96,15 @@ I've collaborated across art, programming, and design—learning to see from eac
 
 ## HCI & Data Project
 
-### 🔮 [**CrossGaussian**](https://www.youtube.com/watch?v=j1E37wnWhfA): *Remote collaboration interaction research using 3D Gaussian Spatting*
+### 🔮 [**CrossGaussian**](https://dl.acm.org/doi/10.1145/3746058.3758348): *Remote collaboration interaction research using 3D Gaussian Spatting*
 - **Role**: First Author (Research Design & Version control) | **Team**: Game Engine 2 · Backend 2 · Data Anaysis 1
 - **Introduce:** HCI research exploring how **3D neural rendering + 360° streaming** can enable room-scale remote collaboration, letting **distant users share and explore each other's spaces.**
 - **[Research Design]** Literature review to identify research gaps; proposed design space for 3DGS-based spatial exploration and visual interaction. **[Development]** End-to-end pipeline: 360° streaming, remote GPU reconstruction, compute shader rendering with depth-based interactions. **[User Study]** Two experiments (N=24): measured user trust by rendering latency; benchmarked viewpoint interaction techniques against baseline.
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-5E5E5E?style=flat-square&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Photon](https://img.shields.io/badge/Photon-004480?style=flat-square&logo=photon&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)  | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-- 🏆 Accepted to **ACM Symposium on User Interface Software and Technology** 2025 Poster & **ISMAR** live Demo
+- 🏆 Accepted to **ACM Symposium on User Interface Software and Technology** 2025 Poster & **ISMAR** live Demo [Video](https://www.youtube.com/watch?v=j1E37wnWhfA)
 
 
-### 📊 [**Calmpilot**](https://github.com/BynPlay/Calmpilot): *Real-time biometric data pipeline for adaptive haptic feedback in VR*
+### 📊 [**Calmpilot**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862533): *Real-time biometric data pipeline for adaptive haptic feedback in VR*
 - **Role:** First Author (Research & System Design) | Team: Client 1 · Backend 1 · Data Analysis 1
 - **Introduce:** **User research** investigating how haptic feedback patterns affect anxiety reduction in **VR exposure therapy program**, using **real-time heart rate data** to trigger adaptive interventions.
 - **[Research Design]** Literature review on clinical relaxation methods; designed 3 haptic patterns (slow vibration, breathing guide, butterfly hug) based on behavioral therapy. **[Development]** Cross-platform pipeline: Galaxy Watch → WebSocket → Unity → bhaptics; timestamp-synchronized logging for biometric data collection. **[User Study]** Compared 3 haptic conditions via time-series analysis; found breathing-guided haptics most effective (4 BPM reduction, longest sustained effect).
