@@ -20,9 +20,9 @@
 > *I bridge **cross-functional teams** to craft game experiences where nothing feels accidental*  
 > *I love exploring **what's next in tech**—and finding ways to bring it into the work*
 
-I've collaborated across art, programming, and design—learning to see from each perspective and bring them together into cohesive experience. My background in HCI has sharpened how I explore emerging tech and validate what actually works for players.
+I've collaborated across art, programming, and design—learning to see from each perspective and bring them together into cohesive experience. My background in HCI has sharpened how I explore emerging tech and validate what works for players.
 
-저는 아트, 프로그래밍, 기획 등 다양한 직군과 협업하며 프로젝트를  수행해왔고, 각 파트의 관점을 이해하며 하나의 게임 경험으로 조율합니다. 또한 HCI를 통해 최신 기술과 사용자 인터랙션을 깊이 있게 분석하고 검증하는 역량을 쌓았습니다.
+저는 아트, 프로그래밍, 기획 등 다양한 직군과 협업하며 프로젝트를  수행해왔고, 각 파트의 관점을 이해하며 하나의 게임 경험으로 조율합니다. 또한 HCI를 통해 최신 기술과 사용자 중심의 인터랙션을 깊이 있게 분석하고 검증하는 역량을 쌓았습니다.
 
 <p>⦁ <strong>Kyung Hee University</strong> · <em>B.S. Computer Science & Immersive Media </em> · 2020 – 2026</p>
 
@@ -85,16 +85,24 @@ I've collaborated across art, programming, and design—learning to see from eac
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-5E5E5E?style=flat-square&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Lumion](https://img.shields.io/badge/Lumion-0696D7?style=flat-square&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=microsoftazure&logoColor=white)
 - 🏆 **한국관광공사** 주최 2024 실감관광콘텐츠 경진대회 최우수상 (**한국관광공사장상**)
 
+### 🌟 [**Viven**](http://journal.dcs.or.kr/_common/do.php?a=full&b=12&bidx=3703&aidx=40968): *Discussion-specialized metaverse platform for online education*
+- **Role**: Service Planning | Team: Planning 2
+- **Introduce:** Designed a debate-focused **education metaverse platform** addressing mic overlap and attention loss in video conferencing, featuring **moderator-centered controls and gamification systems.**
+- **[Research]** 54-person survey + in-depth interviews with professors, TAs, and students to identify pain points. **[Design]** Moderator mic control, speaking time allocation, direct message feedback, gamification engagement system. **[Docs]** PRD/FRD documentation with weekly enterprise review sessions.
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
+ - **(주)트웬티온스 산학협력 프로젝트**로 기획부터 워킹 프로토타입까지 개발 및 **한국디지털콘텐츠학회** 논문지 게재 (2저자)
+
 <br>
 
 ## HCI & Data Project
 
 ### 🔮 [**CrossGaussian**](https://www.youtube.com/watch?v=j1E37wnWhfA): *Remote collaboration interaction research using 3D Gaussian Spatting*
-- **Role**: Research Lead (Research Design & TPM) | **Team**: Game Client 2 · Backend & Distributed system 2 · Data Anaysis 1
-- **Introduce:** **HCI research** on reconstructing remote spaces using **360° video streaming** and **Neural Rendering** to enable **room-scale free exploration and interaction** between **physically distant users**.
-- **[Rendering]** Built remote 360° video texture streaming pipeline in game engine using NVIDIA NPP hardware acceleration. **[Backend]** Designed automated 3DGS rendering pipeline with remote GPU server integration. **[UX]** Designed remote collaboration visualization and interaction based on 3DGS scene compositing and rendering data in game engine.
+- **Role**: Research Lead (Research Design & TPM) | **Team**: Game Engine 2 · Backend & Distributed system 2 · Data Anaysis 1
+- **Introduce:** HCI research exploring how **3D neural rendering + 360° streaming** can enable room-scale remote collaboration, letting distant users share and explore each other's spaces.
+- **[Research Design]** Analyzed 50+ papers to identify gaps in remote collaboration; proposed design space for 3DGS-specific spatial exploration and visual interaction techniques. **[Development]** End-to-end pipeline: 360° live streaming, remote GPU-based 3D reconstruction, and compute shader rendering with depth-based interaction features. **[User Study]** Two experiments (N=24): (1) identified reconstruction latency thresholds affecting user trust across 4 delay conditions; (2) compared 3 viewpoint methods, validating free-viewpoint exploration over 2D video baseline.
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-5E5E5E?style=flat-square&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Photon](https://img.shields.io/badge/Photon-004480?style=flat-square&logo=photon&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)  | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-- 🏆 **ACM UIST** 2025 Poster & **IEEE ISMAR** 2025 Research Demonstration
+- 🏆 Accepted to **ACM Symposium on User Interface Software and Technology** 2025 Poster & IEEE ISMAR 2025 live Demo (1st Author)
+
 
 ### 📊 [**Calmpilot**](https://github.com/BynPlay/Calmpilot): *Real-time biometric data pipeline for adaptive haptic feedback in VR*
 - **Role**: Research Lead (Team Lead & Full-stack Developer) | **Team**: Client 1 · Backend 1 · Data Anaysis 1
