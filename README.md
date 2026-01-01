@@ -7,7 +7,7 @@
 
 </div>
 
-**A Game Maker Driven by Innovation!**
+**A Game Maker(PM) Driven by Innovation!**
 
 [![Blog](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyunbyun/)
@@ -74,7 +74,8 @@ I've collaborated across art, programming, and design—learning to see from eac
 ## **Side Projects**  
 ### 🧒🏻 [**I-there**](https://github.com/BynPlay/i-There): *AI-driven ADHD management & behavioral development game for children*
 - **Role**: Team Lead (PM & Lead Dev) | **Team**: Planning 2 · Art 3 · Programming 3
-- An **immersive AR game** where kids take on missions in **a pastel storybook world**, while **AI screens for ADHD symptoms** and **tailors the behavioral development content** in real time.
+- **Introduce:** An **immersive AR game** where kids take on missions in **a pastel storybook world**, while **AI screens for ADHD symptoms** and **tailors the behavioral development content** in real time.
+- **[Narrative]** Planned storytelling, art direction, and interaction design tailored for children aged 8–12 with ADHD. **[System]** Implemented medical AI model and converted it to ONNX for Unity, seamlessly integrating it into gameplay. **[Mechanics]** Translated clinical criteria (DSM-5) into game scenarios that capture children's behavioral data, and built the logging system to support it
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) 
 - 🏆 **과학기술정보통신부** 주최 2024 XR 디바이스 콘텐츠 메이커톤 **정보통신산업진흥원장상** (2위, 팀장)
  
