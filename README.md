@@ -24,7 +24,7 @@ I've collaborated across art, programming, and design—learning to see from eac
 
 저는 아트, 프로그래밍, 기획 등 다양한 직군과 협업하며 프로젝트를  수행해왔고, 각 파트의 관점을 이해하며 하나의 게임 경험으로 조율합니다. 또한 HCI를 통해 최신 기술과 사용자 인터랙션을 깊이 있게 분석하고 검증하는 역량을 쌓았습니다.
 
-<p>⦁ <strong>Kyung Hee University</strong> · <em>B.S. Computer Science</em> · 2020 – 2026</p>
+<p>⦁ <strong>Kyung Hee University</strong> · <em>B.S. Computer Science & Immersive Media </em> · 2020 – 2026</p>
 
 
 <br>
