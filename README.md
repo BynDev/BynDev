@@ -20,7 +20,7 @@
 > *I bridge **cross-functional teams** to craft game experiences where nothing feels accidental*  
 > *I love exploring **what's next in tech**—and finding ways to bring it into the work*
 
-I've collaborated across art, programming, and design—learning to see from each perspective and bring them together into one cohesive experience. My background in HCI research has sharpened how I explore emerging tech and validate what actually works for players.
+I've collaborated across art, programming, and design—learning to see from each perspective and bring them together into cohesive experience. My background in HCI has sharpened how I explore emerging tech and validate what actually works for players.
 
 저는 아트, 프로그래밍, 기획 등 다양한 직군과 협업하며 프로젝트를  수행해왔고, 각 파트의 관점을 이해하며 하나의 게임 경험으로 조율할 수 있습니다. 또한 HCI 연구 경험을 통해 최신 기술과 사용자 인터랙션을 깊이 있게 분석하고 검증하는 역량을 쌓았습니다.
 
