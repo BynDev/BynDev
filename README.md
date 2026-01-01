@@ -18,7 +18,7 @@
 ---
 
 > *I bridge **cross-functional teams** to craft game experiences where nothing feels accidental*  
-> *I keep a pulse on **what's next in tech**, then bring those insights back to strengthen both the product and my team.*
+> *I love exploring **what's next in tech**—and finding ways to bring it into the work*
 
 I work flexibly with cross-functional teams, focused on making every interaction and experience truly resonate. 
 
