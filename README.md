@@ -17,8 +17,8 @@
 
 ---
 
-> *A **PM** with development experience can think beyond 'what' to build—and into 'how' to build it.*  
-> *A **developer** who values collaboration can turn 'my code' into 'our asset.'*
+> *I bridge **cross-functional teams** to craft game experiences where nothing feels accidental*  
+> *I keep a pulse on **what's next in tech**, then bring those insights back to strengthen both the product and my team.*
 
 I work flexibly with cross-functional teams, focused on making every interaction and experience truly resonate. 
 
