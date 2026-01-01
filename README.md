@@ -71,7 +71,7 @@ I've collaborated across art, programming, and design—learning to see from eac
 
 <br>
 
-## **Side Projects**  
+## **Game Projects**  
 ### 🧒🏻 [**I-there**](https://github.com/BynPlay/i-There): *AI-driven ADHD management & behavioral development game for children*
 - **Role**: Team Lead (PM & Lead Dev) | **Team**: Planning 2 · Art 3 · Programming 3
 - **Introduce:** An **immersive AR game** where kids take on missions in **a pastel storybook world**, while **AI screens for ADHD symptoms** and **tailors the behavioral development content** in real time.
@@ -79,15 +79,6 @@ I've collaborated across art, programming, and design—learning to see from eac
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) 
 - 🏆 **과학기술정보통신부** 주최 2024 XR 디바이스 콘텐츠 메이커톤 **정보통신산업진흥원장상** (2위, 팀장)
 - Redesigned game based on expert interviews; advanced to **ACM CHI 2025 Student Design Competition Finalists** (Top 4)
- 
-### 🔮 [**CrossGaussian**](https://www.youtube.com/watch?v=j1E37wnWhfA): *Remote collaboration interaction research using 3D Gaussian Spatting*
-- **Role**: Research Lead (Research Design & TPM) | **Team**: Game Client 2 · Backend & Distributed system 2 · Data Anaysis 1
-- **Introduce:** **HCI research** on reconstructing remote spaces using **360° video streaming** and **Neural Rendering** to enable **room-scale free exploration and interaction** between **physically distant users**.
-- **[Rendering]** Built remote 360° video texture streaming pipeline in game engine using NVIDIA NPP hardware acceleration. **[Backend]** Designed automated 3DGS rendering pipeline with remote GPU server integration. **[UX]** Designed remote collaboration visualization and interaction based on 3DGS scene compositing and rendering data in game engine.
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-5E5E5E?style=flat-square&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Photon](https://img.shields.io/badge/Photon-004480?style=flat-square&logo=photon&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)  | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-- 🏆 **ACM UIST** 2025 Poster & **IEEE ISMAR** 2025 Research Demonstration
-
-<br>
 
 ### 🚃 **TramscapeToKoea**: *Virtual train journey game where your movement becomes the view*
 - **Role**: PM & Interaction Design | Team: Art 1 · Programming 4 
@@ -95,6 +86,17 @@ I've collaborated across art, programming, and design—learning to see from eac
 - **[Concept]** "Window" interaction metaphor designed through IxD and cognitive psychology to enhance presence on 2D displays. **[Visual]** Korean landmark modeling with HDRP post-processing. **[Gameplay]** Spline-based train ride with AI tour voice; players use body movement to peek through the window and discover landmarks.
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-5E5E5E?style=flat-square&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Lumion](https://img.shields.io/badge/Lumion-0696D7?style=flat-square&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=microsoftazure&logoColor=white)
 - 🏆 **한국관광공사** 주최 2024 실감관광콘텐츠 경진대회 최우수상 (**한국관광공사장상**)
+
+<br>
+
+## HCI & Data Research
+
+### 🔮 [**CrossGaussian**](https://www.youtube.com/watch?v=j1E37wnWhfA): *Remote collaboration interaction research using 3D Gaussian Spatting*
+- **Role**: Research Lead (Research Design & TPM) | **Team**: Game Client 2 · Backend & Distributed system 2 · Data Anaysis 1
+- **Introduce:** **HCI research** on reconstructing remote spaces using **360° video streaming** and **Neural Rendering** to enable **room-scale free exploration and interaction** between **physically distant users**.
+- **[Rendering]** Built remote 360° video texture streaming pipeline in game engine using NVIDIA NPP hardware acceleration. **[Backend]** Designed automated 3DGS rendering pipeline with remote GPU server integration. **[UX]** Designed remote collaboration visualization and interaction based on 3DGS scene compositing and rendering data in game engine.
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-5E5E5E?style=flat-square&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Photon](https://img.shields.io/badge/Photon-004480?style=flat-square&logo=photon&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)  | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+- 🏆 **ACM UIST** 2025 Poster & **IEEE ISMAR** 2025 Research Demonstration
 
 ### 📊 [**Calmpilot**](https://github.com/BynPlay/Calmpilot): *Real-time biometric data pipeline for adaptive haptic feedback in VR*
 - **Role**: Research Lead (Team Lead & Full-stack Developer) | **Team**: Client 1 · Backend 1 · Data Anaysis 1
