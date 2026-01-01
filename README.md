@@ -78,7 +78,7 @@ I've collaborated across art, programming, and design—learning to see from eac
 - 🏆 **과학기술정보통신부** 주최 2024 XR 디바이스 콘텐츠 메이커톤 **정보통신산업진흥원장상** (2위, 팀장)
 - **ACM CHI 2025** Student Design Competition **Finalists**, Globally Top 4 (Redesigned game concept from expert feedback)
 
-### 🚃 **TramscapeToKoea**: *Virtual train journey game where your movement becomes the view*
+### 🚃 [**TramscapeToKoea**](https://github.com/BynPlay/TramScape-To-Korea): *Virtual train journey game where your movement becomes the view*
 - **Role**: PM & Interaction Design | Team: Art 1 · Programming 4 
 - A **train tourism game** where players' body movements create **parallax on the window view**—lean, peek, and discover **Korea's scenic landmarks** along the ride.
 - **[Concept]** "Window" interaction metaphor designed through IxD and cognitive psychology to enhance presence on 2D displays. **[Visual]** Korean landmark modeling with HDRP post-processing. **[Gameplay]** Spline-based train ride with AI tour voice; players use body movement to peek through the window and discover landmarks.
