@@ -7,7 +7,7 @@
 
 </div>
 
-**A Game Maker Driven by Innovation**
+**A Game Maker Driven by Innovation!**
 
 [![Blog](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyunbyun/)
