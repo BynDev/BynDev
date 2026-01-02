@@ -87,7 +87,7 @@ I've collaborated across art, programming, and design—learning to see from eac
 - 🏆 **한국관광공사** 주최 2024 실감관광콘텐츠 경진대회 최우수상 (**한국관광공사장상**)
 
 ### 🌟 [**Viven**](http://journal.dcs.or.kr/_common/do.php?a=full&b=12&bidx=3703&aidx=40968): *Discussion-specialized metaverse platform for online education*
-- **Role**: Service Planning | Team: Planning 2
+- **Role**: Service Planning & Prototyping | Team: Planning 2
 - **Introduce:** Designed debate-focused features for a **commercial education metaverse** platform via industry-academia project, **featuring moderator controls and gamification systems** to address mic overlap and attention loss.
 - **[Research]** 54-person survey + in-depth interviews with professors, TAs, and students to identify pain points. **[Design]** Moderator mic control, speaking time allocation, direct message feedback, gamification engagement system. **[Docs]** PRD/FRD documentation with weekly enterprise review sessions.
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
