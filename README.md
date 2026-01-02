@@ -7,7 +7,7 @@
 
 </div>
 
-**변재현, 혁신을 지향하는 게임 메이커**  
+**변재현, 혁신을 지향하는 콘텐츠 메이커**  
 **A Game Maker(PM) Driven by Innovation!**  
 
 [![Blog](https://img.shields.io/badge/Tistory-Notes_&_Reflections-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
