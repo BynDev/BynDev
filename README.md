@@ -101,7 +101,7 @@ I've collaborated across art, programming, and design—learning to see from eac
 - 🌍 Accepted to **ACM Symposium on User Interface Software and Technology** 2025 Poster & **ISMAR** 2025 Demo [[Video]](https://www.youtube.com/watch?v=j1E37wnWhfA)
 
 
-### 📊 [**Calmpilot**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862533): *Real-time biometric data pipeline for adaptive haptic feedback in VR Program*
+### 📊 [**Calmpilot**](https://github.com/BynPlay/Calmpilot): *Real-time biometric data pipeline for adaptive haptic feedback in VR Program*
 - **Role:** First Author (Research & System Design) | Team: Client 1 · Backend 1 · Data Analysis 1
 - **Introduce:** **User research** investigating **how haptic feedback patterns affect anxiety reduction in VR exposure therapy program**, using real-time heart rate data to trigger automatic calming response.
 - **[Research Design]** Literature review on clinical relaxation methods; designed 3 haptic patterns (slow vibration, breathing guide, butterfly hug) based on behavioral therapy. **[Development]** Cross-platform pipeline: Galaxy Watch → WebSocket → Unity → bhaptics; timestamp-synchronized logging for biometric data collection. **[User Study]** Compared 3 haptic conditions via time-series analysis; found breathing-guided haptics most effective.
