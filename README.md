@@ -93,7 +93,7 @@ I've collaborated across art, programming, and design—learning to see from eac
 
 ## HCI & Data Projects
 
-### 🔮 [**CrossGaussian**](https://dl.acm.org/doi/10.1145/3746058.3758348): *Remote collaboration interaction research using 3D Gaussian Spatting*
+### 🔮 [**CrossGaussian**](https://github.com/BynPlay/CrossGaussian): *Remote collaboration interaction research using 3D Gaussian Spatting*
 - **Role**: First Author (Research Lead & Version control) | **Team**: Game Engine 2 · Backend 2 · Data Anaysis 1
 - **Introduce:** HCI research exploring **how 3D neural rendering + 360° video streaming can enable room-scale remote collaboration**, letting distant users share and ex interact other's spaces.
 - **[Research Design]** Literature review to identify research gaps; proposed design space for 3DGS-based spatial exploration and visual interaction. **[Development]** End-to-end pipeline: 360° streaming, remote GPU reconstruction, compute shader rendering with depth-based interactions. **[User Study]** Two experiments (N=24): measured user trust by rendering latency; benchmarked viewpoint interaction techniques against baseline.
