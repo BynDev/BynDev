@@ -110,8 +110,6 @@ I've collaborated across art, programming, and design—learning to see from eac
 
 ---
 
-<br>
-
 ## **Publication**
 
 *CrossGaussian: Enhancing Remote Collaboration through 3D Gaussian Splatting and Real-time 360° Streaming*  
@@ -128,8 +126,6 @@ Extended Abstracts of the 2025 **CHI Conference on Human Factors in Computing Sy
 
 ---
 
-<br>
-
 <div align="center">
 
 ## **Training & Programs**
@@ -143,8 +139,6 @@ Hanoi, Vietnam · May 2024
 </div>
 
 ---
-
-<br>
 
 <div align="center">
 
