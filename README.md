@@ -8,7 +8,7 @@
 </div>
 
 **변재현, 혁신을 지향하는 프로젝트 설계자**  
-**A Project Manager Driven by Innovation!**  
+**A Project Manager & Developer Driven by Innovation!**  
 
 [![Blog](https://img.shields.io/badge/Tistory-Notes_&_Reflections-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CV_&_Credentials-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyunbyun/)
@@ -23,7 +23,7 @@
 
 I've collaborated across art, programming, and design—learning to see from each perspective and bring them together into cohesive experience. My background in HCI has sharpened how I explore emerging tech and validate what works for players.
 
-저는 아트, 프로그래밍, 기획 등 다양한 직군과 유연하게 협업하며, 각 파트의 관점을 이해하고 하나의 경험으로 조율합니다. 또한 HCI(Human-Computer Interaction)를 통해 기술의 활용 범위와 사용자 중심의 경험을 깊이 있게 탐구하고 분석하는 역량을 쌓았습니다.
+저는 아트, 프로그래밍, 기획 등 다양한 직군과 유연하게 협업하며, 각 파트의 관점을 이해하고 하나의 경험으로 조율합니다. 또한 HCI(Human-Computer Interaction)를 통해 기술의 활용과 사용자 중심의 경험을 깊이 있게 탐구하고 분석하는 역량을 쌓았습니다.
 
 <p>⦁ <strong>Kyung Hee University</strong> · <em>B.S. Computer Science & Immersive Media </em> · 2020 – 2026</p>
 
