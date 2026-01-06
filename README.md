@@ -7,7 +7,7 @@
 
 </div>
 
-**변재현, 혁신을 지향하는 프로젝트 매니저**  
+**변재현, 혁신을 지향하는 프로젝트 매니저 & 소프트웨어 개발자**  
 **A Project Manager & Developer Driven by Innovation!**  
 
 [![Blog](https://img.shields.io/badge/Tistory-Notes_&_Reflections-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
