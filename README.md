@@ -7,7 +7,7 @@
 
 </div>
 
-**변재현, 프로덕트 방향성과 실행을 아우르는 PM & 소프트웨어 개발자**   
+**변재현, 프로젝트 방향성과 실행을 아우르는 PM & 소프트웨어 개발자**   
 **A PM & SW Developer Bridging Product Vision and Execution!**  
 
 [![Blog](https://img.shields.io/badge/Tistory-Notes_&_Reflections-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
