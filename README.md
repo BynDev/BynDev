@@ -7,8 +7,8 @@
 
 </div>
 
-**변재현, 프로덕트 방향성과 실행을 아우르는 PM & 개발자**   
-**A PM & Developer Bridging Product Vision and Execution!**  
+**변재현, 프로덕트 방향성과 실행을 아우르는 PM & 소프트웨어 개발자**   
+**A PM & SW Developer Bridging Product Vision and Execution!**  
 
 [![Blog](https://img.shields.io/badge/Tistory-Notes_&_Reflections-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CV_&_Credentials-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyunbyun/)
