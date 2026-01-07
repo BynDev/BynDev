@@ -21,7 +21,7 @@
 > *I bridge **cross-functional teams** to craft game experiences where nothing feels accidental*  
 > *I love exploring **what's next in tech**—and finding ways to bring it into the work*
 
-I collaborate flexibly across art, programming, and design, understanding each perspective to unify them into a cohesive experience. I value collaboration and knowledge sharing, and I am skilled at exploring and applying technology in ways that enhance user experiences.
+I collaborate across art, programming, and design to create cohesive experiences, valuing teamwork and knowledge sharing while applying technology to enhance user experiences.
 
 저는 아트, 프로그래밍, 기획 등 다양한 직군과 유연하게 협업하며, 각 파트의 관점을 이해하고 하나의 경험으로 조율합니다. 협업과 지식 자산화를 중시하며, 기술과 사용자 경험을 균형 있게 탐구하고 적용하는 역량을 갖추고 있습니다.
 
