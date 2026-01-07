@@ -102,6 +102,13 @@ I collaborate across art, programming, and design to create cohesive experiences
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Galaxy Watch](https://img.shields.io/badge/Galaxy_Watch-1428A0?style=flat-square&logo=samsung&logoColor=white) ![bhaptics](https://img.shields.io/badge/bhaptics-FF6B35?style=flat-square&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 - 🏆 **KCC 2024 학부생 우수논문상** & **Vietnam Mobile Summit 2024 Honored Partner Startup Exhibition** (베트남 창업 전시)
 
+### 💻 Programming Projects
+
+- 🎮 [**DirectX 11 Graphics Renderer**](https://github.com/BynPlay/GameGraphics-Engine-DirectX) — DirectX 11 기반 커스텀 3D 렌더링 엔진 (스켈레탈 애니메이션, 노멀·쉐도우 매핑, 복셀 인스턴싱, 카메라)
+- 🌄 [**Panoramic Image Stitching**](https://github.com/BynPlay/Panoramic-Stitching) — Harris → Matching → RANSAC → Homography → Tone Mapping 파이프라인 Python 알고리즘 구현
+- ✋ [**Microgravity Hand Simulation**](https://github.com/BynPlay/Microgravity-Hand-Simualtion) — Leap Motion 기반 손 추적 미소중력 시뮬레이션 및 충돌 지점 시각화 
+
+
 
 ---
 
