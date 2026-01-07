@@ -86,7 +86,7 @@ I collaborate across art, programming, and design to create cohesive experiences
 
 ### 🌟 [**비벤(Viven)**](http://journal.dcs.or.kr/_common/do.php?a=full&b=12&bidx=3703&aidx=40968): *온라인 교육용 토론 특화 메타버스 플랫폼*
 - **장르:** 메타버스 | **역할**: 서비스 기획 & 프로토타입 개발 | **팀 구성**: 기획 1 · 기획 & 프로그래밍 1
-- **소개:** 상업용 교육 메타버스 플랫폼에서 토론 중심 기능을 설계, 발언 겹침/주의 분산 문제 해결을 위해 모더레이터 제어 및 게이미피케이션 시스템 구현 **[리서치]** 교수, 조교, 학생 54명 설문 + 심층 인터뷰를 통해 페인포인트 파악 **[기획]** 모더레이터 마이크 제어, 발언 시간 배분, DM 피드백, 참여 유도 게이미피케이션 **[개발]** 주간 기업 리뷰 세션 및 PRD/FRD 작성, 기획 기반 실제 상용 SDK에 프로토타입 개발
+- **소개:** 상업용 교육 메타버스에서 발언 겹침과 주의 분산 문제를 해결하기 위한 토론 특화 시스템 설계 및 프로로타입 구현 **[기획]** 모더레이터 마이크 제어, 발언 시간 배분, DM 피드백, 참여 유도 게이미피케이션 **[개발]** 주간 기업 리뷰 세션 및 PRD/FRD 작성, 기획 기반 실제 상용 SDK에 프로토타입 개발
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
 - 🏆 **(주)트웬티온스 산학협력 프로젝트**로 기획부터 워킹 프로토타입까지 개발 및 **한국디지털콘텐츠학회** 논문지 게재 (2저자)
 
