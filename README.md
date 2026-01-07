@@ -104,7 +104,7 @@ I collaborate across art, programming, and design to create cohesive experiences
 
 <br>
 
-### 💻 Programming Projects
+### Programming Projects
 
 - 🎮 [**DirectX 11 Graphics Renderer**](https://github.com/BynPlay/GameGraphics-Engine-DirectX) — DirectX 11 + WINAPI 기반 커스텀 3D 렌더링 엔진 구현
 - 🌄 [**Panoramic Image Stitching**](https://github.com/BynPlay/Panoramic-Stitching) — Harris → Matching → RANSAC → Homography 파이프라인 Python 알고리즘 구현
