@@ -66,7 +66,7 @@ I collaborate across art, programming, and design to create cohesive experiences
 
 </div>
 
-## **Game Projects**  
+## **Flagship Product**  
 ### 🧒🏻 [**아이-데아(I-there)**](https://github.com/BynPlay/i-There): *AI가 제공하는 아동 ADHD 탐지 & 맞춤형 행동 발달 게임 솔루션*
 - **장르:** 시리어스 게임 | **역할**: PM & Lead Dev [팀장] | **팀 구성**: 기획 2 · 아트 3 · 프로그래밍 2 · 의학 전공 및 AI 모델 개발 1
 - **소개:** 아이들이 파스텔 톤 동화 이야기 속 세계에서 미션을 수행하며, AI가 ADHD 증상을 탐지하고 행동 발달 콘텐츠를 실시간으로 맞춤 제공하는 몰입형 AR 게임. **[UX]** 8–12세 아동 대상 스토리텔링, 아트 디렉션, 인터랙션 디자인 **[AI 시스템]** 의료 AI 모델 구축, ONNX 변환 후 게임 엔진에 실시간 연동 **[게임 메커닉]** DSM-5 진단 기준을 게임 시나리오로 변환하여 행동 데이터를 수집하고 중앙 DB 기반 전체 로그 파이프라인 구현
@@ -82,29 +82,23 @@ I collaborate across art, programming, and design to create cohesive experiences
 
 ### 🌟 [**비벤(Viven)**](http://journal.dcs.or.kr/_common/do.php?a=full&b=12&bidx=3703&aidx=40968): *온라인 교육용 토론 특화 메타버스 플랫폼*
 - **장르:** 메타버스 | **역할**: 서비스 기획 & 프로토타입 개발 | **팀 구성**: 기획 1 · 기획 & 프로그래밍 1
-- **소개:** 상업용 교육 메타버스에서 발언 겹침과 주의 분산 문제를 해결하기 위한 토론 특화 시스템 설계 및 프로로타입 구현 **[리서치]** 교수, 조교, 학생 54명 설문 + 심층 인터뷰를 통해 페인포인트 파악 **[기획]** PRD/FRD 작성: 모더레이터 마이크 제어, 발언 시간 배분, DM 피드백, 참여 유도 게이미피케이션 **[개발]** 주간 기업 리뷰 세션 및 멘토링 후 기획 기반 실제 상용 SDK에 프로토타입 개발
+- **소개:** 상업용 교육 메타버스에서 발언 겹침과 주의 분산 문제를 해결하기 위한 토론 특화 시스템 설계 및 프로로타입 구현 **[리서치]** 학생 54명 설문 + 교수 및 조교 심층 인터뷰를 통해 페인포인트 파악 **[기획]** PRD/FRD 작성: 모더레이터 마이크 제어, 발언 시간 배분, DM 피드백, 참여 유도 게이미피케이션 **[개발]** 주간 기업 리뷰 세션 및 멘토링 후 기획 기반 실제 상용 SDK에 프로토타입 개발
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
 - 🏆 **(주)트웬티온스 산학협력 프로젝트**로 기획부터 워킹 프로토타입까지 개발 및 **한국디지털콘텐츠학회** 논문지 게재 (2저자)
 
 <br>
 
-## HCI 프로젝트
+## HCI Research
 
 ### 🔮 [**크로스가우시안(CrossGaussian)**](https://github.com/BynPlay/CrossGaussian): *3D Gaussian Spatting 기반 원격 협업 인터랙션 연구*
-- **역할**: 제1저자 (*연구 리드 & 버전 관리*) | **팀 구성**: 게임 엔진 2 · 백엔드 2 · 데이터 분석 1
-- **소개:** **3D 뉴럴 렌더링 + 360° 영상 스트리밍을 활용해 원격 사용자 간 공간 공유와 상호작용 가능성 탐구**
-- **[연구 설계]** 선행 연구 리뷰, 연구 공백 확인, 3DGS 기반 공간 탐색 및 시각적 상호작용을 위한 디자인 스페이스 제안  
-- **[개발]** 360° 스트리밍, 원격 GPU 재구성, 깊이 기반 상호작용 컴퓨트 셰이더 렌더링  
-- **[사용자 실험]** N=24 실험: 렌더링 지연에 따른 사용자 신뢰도 측정, 시점 상호작용 기법 벤치마킹
+- **역할**: 연구 리드 & 기술 설계 및 통합 [1저자] | **팀 구성**: 게임 엔진 2 · 백엔드 2 · 데이터 분석 1
+- **소개:** 3D 뉴럴 렌더링 + 360° 영상 스트리밍을 활용해 원격 사용자 간 공간 공유와 상호작용 가능성 탐구** **[연구 설계]** 선행 연구 리뷰, 연구 공백 확인, 3DGS 기반 공간 탐색 및 시각적 상호작용을 위한 디자인 스페이스 제안 **[개발]** 360° 스트리밍, 원격 GPU 재구성, 깊이 기반 상호작용 컴퓨트 셰이더 렌더링 **[사용자 실험]** N=24 실험: 렌더링 지연에 따른 사용자 신뢰도 측정, 시점 상호작용 기법 벤치마킹
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-5E5E5E?style=flat-square&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Photon](https://img.shields.io/badge/Photon-004480?style=flat-square&logo=photon&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-- 🌍 **ACM UIST 2025 포스터** & **ISMAR 2025 데모** 발표 [[영상]](https://www.youtube.com/watch?v=j1E37wnWhfA)
+- 🌍 Accepted to **ACM Symposium on User Interface Software and Technology** 2025 Poster & **ISMAR** 2025 Demo [[Video]](https://www.youtube.com/watch?v=j1E37wnWhfA)
 
 ### 📊 [**캄파일럿(Calmpilot)**](https://github.com/BynPlay/Calmpilot): *VR 프로그램용 실시간 바이오 데이터 기반 적응형 햅틱 피드백*
 - **역할:** 제1저자 (*연구 설계 & 게임 클라이언트 개발*) | **팀 구성**: 클라이언트 1 · 백엔드 1 · 데이터 분석 1
-- **소개:** **실시간 심박 데이터를 이용해 VR 노출 치료에서 햅틱 피드백이 불안 완화에 미치는 효과**를 연구, 자동 진정 반응 트리거
-- **[연구 설계]** 임상 이완 방법 검토, 행동 치료 기반 3가지 햅틱 패턴 설계 (느린 진동, 호흡 가이드, 버터플라이 허그)  
-- **[개발]** Galaxy Watch → WebSocket → Unity → bhaptics, 타임스탬프 동기화 로그  
-- **[사용자 실험]** 3가지 조건 비교, 호흡 가이드 햅틱이 가장 효과적
+- **소개:** **실시간 심박 데이터를 이용해 VR 노출 치료에서 햅틱 피드백이 불안 완화에 미치는 효과**를 연구, 자동 진정 반응 트리거 **[연구 설계]** 임상 이완 방법 검토, 행동 치료 기반 3가지 햅틱 패턴 설계 (느린 진동, 호흡 가이드, 버터플라이 허그) **[개발]** Galaxy Watch → WebSocket → Unity → bhaptics, 타임스탬프 동기화 로그 **[사용자 실험]** 3가지 조건 비교, 호흡 가이드 햅틱이 가장 효과적
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Galaxy Watch](https://img.shields.io/badge/Galaxy_Watch-1428A0?style=flat-square&logo=samsung&logoColor=white) ![bhaptics](https://img.shields.io/badge/bhaptics-FF6B35?style=flat-square&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 - 🏆 **KCC 2024 학부생 우수논문상** & **Vietnam Mobile Summit 2024 Honored Partner Startup Exhibition** (베트남 창업 전시)
 
