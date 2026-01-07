@@ -7,8 +7,7 @@
 
 </div>
 
-**변재현, 혁신을 지향하는 프로덕트 매니저 & 개발자**  
-**A Project Manager & Developer Driven by Innovation!**  
+**변재현, 혁신을 지향하는 프로젝트트 매니저 & 개발자변재현, **A Project Manager & Developer Driven by Innovation!**  
 
 [![Blog](https://img.shields.io/badge/Tistory-Notes_&_Reflections-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CV_&_Credentials-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyunbyun/)
@@ -66,7 +65,7 @@ I collaborate across art, programming, and design to create cohesive experiences
 
 </div>
 
-## **Flagship Product**  
+## **Flagship Products**  
 ### 🧒🏻 [**아이-데아(I-there)**](https://github.com/BynPlay/i-There): *AI가 제공하는 아동 ADHD 탐지 & 맞춤형 행동 발달 게임 솔루션*
 - **장르:** 시리어스 게임 | **역할**: PM & Lead Dev [팀장] | **팀 구성**: 기획 2 · 아트 3 · 프로그래밍 2 · 의학 전공 및 AI 모델 개발 1
 - **소개:** 아이들이 파스텔 톤 동화 이야기 속 세계에서 미션을 수행하며, AI가 ADHD 증상을 탐지하고 행동 발달 콘텐츠를 실시간으로 맞춤 제공하는 몰입형 AR 게임. **[UX]** 8–12세 아동 대상 스토리텔링, 아트 디렉션, 인터랙션 디자인 **[AI 시스템]** 의료 AI 모델 구축, ONNX 변환 후 게임 엔진에 실시간 연동 **[게임 메커닉]** DSM-5 진단 기준을 게임 시나리오로 변환하여 행동 데이터를 수집하고 중앙 DB 기반 전체 로그 파이프라인 구현
