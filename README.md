@@ -91,7 +91,7 @@ I collaborate across art, programming, and design to create cohesive experiences
 
 <br>
 
-## Research Projects
+## HCI Projects
 
 ### 🔮 [**CrossGaussian**](https://github.com/BynPlay/CrossGaussian): *Remote collaboration interaction research using 3D Gaussian Spatting*
 - **Role**: First Author (*Research Lead & Version control*) | **Team**: Game Engine 2 · Backend 2 · Data Anaysis 1
