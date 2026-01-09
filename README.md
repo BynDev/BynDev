@@ -23,7 +23,7 @@
 
 I collaborate across art, programming, and design to create cohesive experiences, valuing teamwork and knowledge sharing while applying technology to enhance user experiences.
 
-저는 아트, 프로그래밍, 기획 등 다양한 직군과 유연하게 협업하며, 각 파트의 관점을 이해하고 하나의 경험으로 조율합니다. 최신 AI 기술에 대한 지적 호기심이 많으며, 기술과 사용자 경험을 균형 있게 탐구하고 적용하는 역량을 갖추고 있습니다.
+저는 아트, 프로그래밍, 기획 등 다양한 직군과 유연하게 협업하며, 각 파트의 관점을 이해하고 하나의 경험으로 조율합니다. 최신 AI 기술에 대한 지적 호기심이 많으며, 사용자와 맞닿은 인터랙션과 클라이언트 개발에 강점이 있습니다.
 
 <p>⦁ <strong>Kyung Hee University</strong> · <em>B.S. Computer Science & Immersive Media </em> · 2020 – 2026</p>
 
@@ -75,7 +75,7 @@ I collaborate across art, programming, and design to create cohesive experiences
 - 🌍 **ACM CHI** **2025** Student Design Competition **Finalist** (Top 4) $\scriptsize\textsf{*Redesigned game concept from expert feedback}$
 
 ### 🚃 [**트램스케이프 투 코리아(TramscapeToKoea)**](https://github.com/BynPlay/TramScape-To-Korea): 플레이어 움직임으로 상호작용하는 실감형 기차 여행
-- **장르:** 키넥트 게임 | **역할**: TPM & Producer | **팀 구성**: 아트 1 · 프로그래밍 4 
+- **장르:** 키넥트 게임 | **역할**: TPM & Interaction Design | **팀 구성**: 아트 1 · 프로그래밍 4 
 - **소개:** 플레이어의 신체 움직임에 따라 창문을 들여다보듯 시점이 변화하며, 나레이션과 함께 한국의 주요 관광 명소를 탐험하는 열차 관광 게임 **[컨셉]** 2D 화면에서도 입체감을 제공하는 "창문" 인터랙션 메타포 설계 및 구현 (인지심리이론 기반) **[렌더링]** 한국 랜드마크 모델링 + HDRP 포스트 프로세싱 **[게임플레이]** 스플라인 기반 열차 이동, AI 투어 음성, 몸동작으로 창 밖 콘텐츠 시나리오 탐색
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-5E5E5E?style=flat-square&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)  ![Lumion](https://img.shields.io/badge/Lumion-0696D7?style=flat-square&logoColor=white)  | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=microsoftazure&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) 
 - 🏆 **한국관광공사** 주최 2024 실감관광콘텐츠 경진대회 최우수상 (**한국관광공사장상**)  
