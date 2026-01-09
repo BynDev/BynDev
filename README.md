@@ -23,7 +23,7 @@
 
 I collaborate across art, programming, and design to create cohesive experiences, valuing teamwork and knowledge sharing while applying technology to enhance user experiences.
 
-저는 아트, 프로그래밍, 기획 등 다양한 직군과 유연하게 협업하며, 각 파트의 관점을 이해하고 하나의 경험으로 조율합니다. 최신 AI 기술에 대한 지적 호기심이 많으며, 사용자와 맞닿은 인터랙션과 클라이언트 개발에 강점이 있습니다.
+저는 아트, 프로그래밍, 기획 등 다양한 직군과 유연하게 협업하며, 각 파트의 관점을 이해하고 하나의 경험으로 조율합니다. 최신 AI 기술에 대한 지적 호기심이 많으며, 사용자 경험을 좌우하는 실시간 인터랙션과 클라이언트 구현에 강점이 있습니다.
 
 <p>⦁ <strong>Kyung Hee University</strong> · <em>B.S. Computer Science & Immersive Media </em> · 2020 – 2026</p>
 
