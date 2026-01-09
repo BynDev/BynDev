@@ -8,7 +8,7 @@
 </div>
 
 **프로젝트 매니저 & 소프트웨어 개발자**   
-**A PM & SW Developer Bridging Product Vision and Execution!**  
+**A Project Manager & SW Developer**  
 
 [![Blog](https://img.shields.io/badge/Tistory-Notes_&_Reflections-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CV_&_Credentials-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyunbyun/)
@@ -21,7 +21,7 @@
 > *I bridge **cross-functional teams** to craft game experiences where nothing feels accidental*  
 > *I love exploring **what's next in tech**—and finding ways to bring it into the work*
 
-I collaborate across art, programming, and design to create cohesive experiences, valuing teamwork and knowledge sharing while applying technology to enhance user experiences.
+I collaborate closely with artists, programmers, and designers to align diverse perspectives into a cohesive player experience. I focus on real-time interaction and client-side development, with a interest in emerging AI technologies.
 
 저는 아트, 프로그래밍, 기획 등 다양한 직군과 유연하게 협업하며, 각 파트의 관점을 이해하고 하나의 경험으로 조율합니다. 최신 AI 기술에 대한 지적 호기심이 많으며, 사용자 경험을 좌우하는 실시간 인터랙션과 클라이언트 구현에 강점이 있습니다.
 
