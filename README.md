@@ -7,7 +7,6 @@
 
 </div>
 
-**프로젝트 매니저 & 소프트웨어 개발자**   
 **A Project Manager & SW Developer**  
 
 [![Blog](https://img.shields.io/badge/Tistory-Notes_&_Reflections-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://metahyeon.tistory.com/)
