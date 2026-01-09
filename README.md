@@ -26,6 +26,10 @@ I collaborate closely with artists, programmers, and designers to align diverse 
 
 <p>⦁ <strong>Kyung Hee University</strong> · <em>B.S. Computer Science & Immersive Media </em> · 2020 – 2026</p>
 
+<p style="font-size:0.85em; color:#555;">
+  #Game Client · #UI/UX Programming · #Computer Graphics · #Human-AI Interaction
+</p>
+
 
 <br>
 
